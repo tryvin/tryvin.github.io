@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vin Souza (@tryvin)</title>
+    <link>http://tryvin.github.io/</link>
+    <description>Recent content on Vin Souza (@tryvin)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 21:47:25 +0000</lastBuildDate>
+    
+	<atom:link href="http://tryvin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>http://tryvin.github.io/test/</link>
+      <pubDate>Thu, 27 Sep 2018 21:47:25 +0000</pubDate>
+      
+      <guid>http://tryvin.github.io/test/</guid>
+      <description>Testing this and that, and that and that</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tryvin.github.io/service/php-development/</loc>
+    <lastmod>2018-10-06T19:04:33-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tryvin.github.io/project/squid-proxy-at-ifs/</loc>
     <lastmod>2018-10-06T18:38:31-03:00</lastmod>
   </url>
@@ -131,7 +136,7 @@
   
   <url>
     <loc>http://tryvin.github.io/service/</loc>
-    <lastmod>2018-10-06T17:56:07-03:00</lastmod>
+    <lastmod>2018-10-06T19:04:33-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -142,7 +147,7 @@
   
   <url>
     <loc>http://tryvin.github.io/</loc>
-    <lastmod>2018-10-06T18:38:31-03:00</lastmod>
+    <lastmod>2018-10-06T19:04:33-03:00</lastmod>
     <priority>0</priority>
   </url>
   

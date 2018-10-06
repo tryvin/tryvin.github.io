@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Vin Souza (@tryvin)</title>
+    <link>http://tryvin.github.io/service/</link>
+    <description>Recent content in Services on Vin Souza (@tryvin)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Oct 2018 17:56:07 -0300</lastBuildDate>
+    
+	<atom:link href="http://tryvin.github.io/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Network Management</title>
+      <link>http://tryvin.github.io/service/network-management/</link>
+      <pubDate>Sat, 06 Oct 2018 17:56:07 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/service/network-management/</guid>
+      <description>Service text description here</description>
+    </item>
+    
+    <item>
+      <title>Business Model Canvas</title>
+      <link>http://tryvin.github.io/service/business-model-canvas/</link>
+      <pubDate>Sat, 06 Oct 2018 17:55:53 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/service/business-model-canvas/</guid>
+      <description>Service text description here</description>
+    </item>
+    
+    <item>
+      <title>SEO</title>
+      <link>http://tryvin.github.io/service/seo/</link>
+      <pubDate>Sat, 06 Oct 2018 17:54:13 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/service/seo/</guid>
+      <description>Service text description here</description>
+    </item>
+    
+  </channel>
+</rss>

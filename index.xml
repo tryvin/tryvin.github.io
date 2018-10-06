@@ -6,18 +6,189 @@
     <description>Recent content on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Sep 2018 21:47:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 18:38:31 -0300</lastBuildDate>
     
 	<atom:link href="http://tryvin.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Squid Proxy at Ifs</title>
+      <link>http://tryvin.github.io/project/squid-proxy-at-ifs/</link>
+      <pubDate>Sat, 06 Oct 2018 18:38:31 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/project/squid-proxy-at-ifs/</guid>
+      <description>Project text description here</description>
+    </item>
+    
+    <item>
+      <title>Network Management</title>
+      <link>http://tryvin.github.io/service/network-management/</link>
+      <pubDate>Sat, 06 Oct 2018 17:56:07 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/service/network-management/</guid>
+      <description>Service text description here</description>
+    </item>
+    
+    <item>
+      <title>Business Model Canvas</title>
+      <link>http://tryvin.github.io/service/business-model-canvas/</link>
+      <pubDate>Sat, 06 Oct 2018 17:55:53 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/service/business-model-canvas/</guid>
+      <description>Service text description here</description>
+    </item>
+    
+    <item>
+      <title>SEO</title>
+      <link>http://tryvin.github.io/service/seo/</link>
+      <pubDate>Sat, 06 Oct 2018 17:54:13 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/service/seo/</guid>
+      <description>Service text description here</description>
+    </item>
+    
+    <item>
+      <title>Scalable Path</title>
+      <link>http://tryvin.github.io/workexperience/scalable-path/</link>
+      <pubDate>Sat, 06 Oct 2018 16:37:59 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/workexperience/scalable-path/</guid>
+      <description>Work Experience text description here</description>
+    </item>
+    
+    <item>
+      <title>8Sistemas</title>
+      <link>http://tryvin.github.io/workexperience/8sistemas/</link>
+      <pubDate>Sat, 06 Oct 2018 16:37:03 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/workexperience/8sistemas/</guid>
+      <description>Work Experience text description here</description>
+    </item>
+    
+    <item>
+      <title>Pessoas.VC</title>
+      <link>http://tryvin.github.io/workexperience/pessoas-vc/</link>
+      <pubDate>Sat, 06 Oct 2018 16:36:01 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/workexperience/pessoas-vc/</guid>
+      <description>Work Experience text description here</description>
+    </item>
+    
+    <item>
+      <title>KinuX E.v.</title>
+      <link>http://tryvin.github.io/workexperience/kinux-ev/</link>
+      <pubDate>Sat, 06 Oct 2018 16:34:51 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/workexperience/kinux-ev/</guid>
+      <description>Work Experience text description here</description>
+    </item>
+    
+    <item>
+      <title>Hiper Social</title>
+      <link>http://tryvin.github.io/workexperience/hiper-social/</link>
+      <pubDate>Sat, 06 Oct 2018 16:33:46 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/workexperience/hiper-social/</guid>
+      <description>Work Experience text description here</description>
+    </item>
+    
+    <item>
+      <title>KDE</title>
+      <link>http://tryvin.github.io/workexperience/kde/</link>
+      <pubDate>Sat, 06 Oct 2018 16:31:28 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/workexperience/kde/</guid>
+      <description>Work Experience text description here</description>
+    </item>
+    
+    <item>
+      <title>StayTrack</title>
+      <link>http://tryvin.github.io/workexperience/staytrack/</link>
+      <pubDate>Sat, 06 Oct 2018 16:30:10 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/workexperience/staytrack/</guid>
+      <description>Work Experience text description here</description>
+    </item>
+    
+    <item>
+      <title>IFS</title>
+      <link>http://tryvin.github.io/workexperience/ifs/</link>
+      <pubDate>Sat, 06 Oct 2018 16:25:06 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/workexperience/ifs/</guid>
+      <description>Work Experience text description here</description>
+    </item>
+    
+    <item>
+      <title>DevOPS Foundation</title>
+      <link>http://tryvin.github.io/certification/devops-foundation/</link>
+      <pubDate>Sat, 06 Oct 2018 16:22:50 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/certification/devops-foundation/</guid>
+      <description>Certification text description here</description>
+    </item>
+    
+    <item>
+      <title>Agile Management With Scrum</title>
+      <link>http://tryvin.github.io/certification/agile-management-with-scrum/</link>
+      <pubDate>Sat, 06 Oct 2018 16:18:41 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/certification/agile-management-with-scrum/</guid>
+      <description>Certification text description here</description>
+    </item>
+    
+    <item>
+      <title>Agile Scrum Foundation</title>
+      <link>http://tryvin.github.io/certification/agile-scrum-foundation/</link>
+      <pubDate>Sat, 06 Oct 2018 16:16:19 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/certification/agile-scrum-foundation/</guid>
+      <description>Certification text description here</description>
+    </item>
+    
+    <item>
+      <title>Master of Business Administration - MBA</title>
+      <link>http://tryvin.github.io/education/master-of-business-administration-mba/</link>
+      <pubDate>Sat, 06 Oct 2018 16:05:37 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/education/master-of-business-administration-mba/</guid>
+      <description>Education text description here</description>
+    </item>
+    
+    <item>
+      <title>Bachelor, Statistics</title>
+      <link>http://tryvin.github.io/education/bachelor-statistics/</link>
+      <pubDate>Sat, 06 Oct 2018 16:01:27 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/education/bachelor-statistics/</guid>
+      <description>Education text description here</description>
+    </item>
+    
+    <item>
       <title>Test</title>
-      <link>http://tryvin.github.io/test/</link>
+      <link>http://tryvin.github.io/blog/test/</link>
       <pubDate>Thu, 27 Sep 2018 21:47:25 +0000</pubDate>
       
-      <guid>http://tryvin.github.io/test/</guid>
+      <guid>http://tryvin.github.io/blog/test/</guid>
       <description>Testing this and that, and that and that</description>
+    </item>
+    
+    <item>
+      <title>Get in touch!</title>
+      <link>http://tryvin.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://tryvin.github.io/contact/</guid>
+      <description>You may find me at</description>
+    </item>
+    
+    <item>
+      <title>Hire me!</title>
+      <link>http://tryvin.github.io/hire-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://tryvin.github.io/hire-me/</guid>
+      <description>You may find me at</description>
     </item>
     
   </channel>

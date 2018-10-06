@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Certifications on Vin Souza (@tryvin)</title>
+    <link>http://tryvin.github.io/certification/</link>
+    <description>Recent content in Certifications on Vin Souza (@tryvin)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Oct 2018 16:22:50 -0300</lastBuildDate>
+    
+	<atom:link href="http://tryvin.github.io/certification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DevOPS Foundation</title>
+      <link>http://tryvin.github.io/certification/devops-foundation/</link>
+      <pubDate>Sat, 06 Oct 2018 16:22:50 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/certification/devops-foundation/</guid>
+      <description>Certification text description here</description>
+    </item>
+    
+    <item>
+      <title>Agile Management With Scrum</title>
+      <link>http://tryvin.github.io/certification/agile-management-with-scrum/</link>
+      <pubDate>Sat, 06 Oct 2018 16:18:41 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/certification/agile-management-with-scrum/</guid>
+      <description>Certification text description here</description>
+    </item>
+    
+    <item>
+      <title>Agile Scrum Foundation</title>
+      <link>http://tryvin.github.io/certification/agile-scrum-foundation/</link>
+      <pubDate>Sat, 06 Oct 2018 16:16:19 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/certification/agile-scrum-foundation/</guid>
+      <description>Certification text description here</description>
+    </item>
+    
+  </channel>
+</rss>

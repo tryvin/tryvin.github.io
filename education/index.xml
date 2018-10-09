@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Educations on Vin Souza (@tryvin)</title>
-    <link>http://tryvin.github.io/education/</link>
+    <link>https://www.vinsouza.work/education/</link>
     <description>Recent content in Educations on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Oct 2018 16:05:37 -0300</lastBuildDate>
     
-	<atom:link href="http://tryvin.github.io/education/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.vinsouza.work/education/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Master of Business Administration - MBA</title>
-      <link>http://tryvin.github.io/education/master-of-business-administration-mba/</link>
+      <link>https://www.vinsouza.work/education/master-of-business-administration-mba/</link>
       <pubDate>Sat, 06 Oct 2018 16:05:37 -0300</pubDate>
       
-      <guid>http://tryvin.github.io/education/master-of-business-administration-mba/</guid>
+      <guid>https://www.vinsouza.work/education/master-of-business-administration-mba/</guid>
       <description>What is a MBA? The Master of Business Administration (MBA or M.B.A.) degree originated in the United States in the early 20th century when the country industrialized and companies sought scientific approaches to management. The core courses in an MBA program cover various areas of business such as accounting, applied statistics, business communication, business ethics, business law, finance, managerial economics, management, entrepreneurship, marketing and operations in a manner most relevant to management analysis and strategy.</description>
     </item>
     
     <item>
       <title>Bachelor, Statistics</title>
-      <link>http://tryvin.github.io/education/bachelor-statistics/</link>
+      <link>https://www.vinsouza.work/education/bachelor-statistics/</link>
       <pubDate>Sat, 06 Oct 2018 16:01:27 -0300</pubDate>
       
-      <guid>http://tryvin.github.io/education/bachelor-statistics/</guid>
+      <guid>https://www.vinsouza.work/education/bachelor-statistics/</guid>
       <description>Education text description here</description>
     </item>
     

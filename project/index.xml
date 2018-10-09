@@ -6,10 +6,19 @@
     <description>Recent content in Projects on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Oct 2018 00:32:46 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 09 Oct 2018 00:33:30 -0300</lastBuildDate>
     
 	<atom:link href="https://vinsouza.work/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Salesforce Sentiment Analysis System for Classifying best business opportunities</title>
+      <link>https://vinsouza.work/project/salesforce-sentiment-analysis-system-for-classifying-best-business-opportunities/</link>
+      <pubDate>Tue, 09 Oct 2018 00:33:30 -0300</pubDate>
+      
+      <guid>https://vinsouza.work/project/salesforce-sentiment-analysis-system-for-classifying-best-business-opportunities/</guid>
+      <description>To discur here</description>
+    </item>
     
     <item>
       <title>Hybrid using React Native and Electron for a POS System</title>

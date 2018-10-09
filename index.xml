@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vin Souza (@tryvin)</title>
-    <link>https://vinsouza.work/</link>
+    <link>https://www.vinsouza.work/</link>
     <description>Recent content on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Oct 2018 00:39:37 -0300</lastBuildDate>
     
-	<atom:link href="https://vinsouza.work/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.vinsouza.work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Solar Company Website Project</title>
-      <link>https://vinsouza.work/project/solar-company-website-project/</link>
+      <link>https://www.vinsouza.work/project/solar-company-website-project/</link>
       <pubDate>Tue, 09 Oct 2018 00:39:37 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/solar-company-website-project/</guid>
+      <guid>https://www.vinsouza.work/project/solar-company-website-project/</guid>
       <description>To discur here</description>
     </item>
     
     <item>
       <title>Animal Kennel Management System</title>
-      <link>https://vinsouza.work/project/animal-kennel-management-system/</link>
+      <link>https://www.vinsouza.work/project/animal-kennel-management-system/</link>
       <pubDate>Tue, 09 Oct 2018 00:38:27 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/animal-kennel-management-system/</guid>
+      <guid>https://www.vinsouza.work/project/animal-kennel-management-system/</guid>
       <description>To discur here</description>
     </item>
     
     <item>
       <title>Austin Golf Project</title>
-      <link>https://vinsouza.work/project/austin-golf-project/</link>
+      <link>https://www.vinsouza.work/project/austin-golf-project/</link>
       <pubDate>Tue, 09 Oct 2018 00:34:35 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/austin-golf-project/</guid>
+      <guid>https://www.vinsouza.work/project/austin-golf-project/</guid>
       <description>To discur here</description>
     </item>
     
     <item>
       <title>Migration and Maintance of Linux Servers at the AWS Stack</title>
-      <link>https://vinsouza.work/project/migration-and-maintance-of-linux-servers-at-the-aws-stack/</link>
+      <link>https://www.vinsouza.work/project/migration-and-maintance-of-linux-servers-at-the-aws-stack/</link>
       <pubDate>Tue, 09 Oct 2018 00:34:07 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/migration-and-maintance-of-linux-servers-at-the-aws-stack/</guid>
+      <guid>https://www.vinsouza.work/project/migration-and-maintance-of-linux-servers-at-the-aws-stack/</guid>
       <description>To discur here</description>
     </item>
     
     <item>
       <title>Salesforce Sentiment Analysis System for Classifying best business opportunities</title>
-      <link>https://vinsouza.work/project/salesforce-sentiment-analysis-system-for-classifying-best-business-opportunities/</link>
+      <link>https://www.vinsouza.work/project/salesforce-sentiment-analysis-system-for-classifying-best-business-opportunities/</link>
       <pubDate>Tue, 09 Oct 2018 00:33:30 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/salesforce-sentiment-analysis-system-for-classifying-best-business-opportunities/</guid>
+      <guid>https://www.vinsouza.work/project/salesforce-sentiment-analysis-system-for-classifying-best-business-opportunities/</guid>
       <description>To discur here</description>
     </item>
     
     <item>
       <title>Hybrid using React Native and Electron for a POS System</title>
-      <link>https://vinsouza.work/project/hybrid-using-react-native-and-electron-for-a-pos-system/</link>
+      <link>https://www.vinsouza.work/project/hybrid-using-react-native-and-electron-for-a-pos-system/</link>
       <pubDate>Tue, 09 Oct 2018 00:32:46 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/hybrid-using-react-native-and-electron-for-a-pos-system/</guid>
+      <guid>https://www.vinsouza.work/project/hybrid-using-react-native-and-electron-for-a-pos-system/</guid>
       <description>To discur here</description>
     </item>
     
     <item>
       <title>Migration and Maintenance of Linux Servers</title>
-      <link>https://vinsouza.work/project/migration-and-maintenance-of-linux-servers/</link>
+      <link>https://www.vinsouza.work/project/migration-and-maintenance-of-linux-servers/</link>
       <pubDate>Tue, 09 Oct 2018 00:31:42 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/migration-and-maintenance-of-linux-servers/</guid>
+      <guid>https://www.vinsouza.work/project/migration-and-maintenance-of-linux-servers/</guid>
       <description>To discur here</description>
     </item>
     
     <item>
       <title>Integration with Brazilian&#39;s Eletronic Tax Systems</title>
-      <link>https://vinsouza.work/project/integration-with-brazilians-eletronic-tax-systems/</link>
+      <link>https://www.vinsouza.work/project/integration-with-brazilians-eletronic-tax-systems/</link>
       <pubDate>Tue, 09 Oct 2018 00:30:55 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/integration-with-brazilians-eletronic-tax-systems/</guid>
+      <guid>https://www.vinsouza.work/project/integration-with-brazilians-eletronic-tax-systems/</guid>
       <description>To discur here</description>
     </item>
     
     <item>
       <title>POS Version with QT for offline usage</title>
-      <link>https://vinsouza.work/project/pos-version-with-qt-for-offline-usage/</link>
+      <link>https://www.vinsouza.work/project/pos-version-with-qt-for-offline-usage/</link>
       <pubDate>Tue, 09 Oct 2018 00:30:21 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/pos-version-with-qt-for-offline-usage/</guid>
+      <guid>https://www.vinsouza.work/project/pos-version-with-qt-for-offline-usage/</guid>
       <description>To discur here</description>
     </item>
     
     <item>
       <title>POS System running at a Cloud Stack</title>
-      <link>https://vinsouza.work/project/pos-system-running-at-a-cloud-stack/</link>
+      <link>https://www.vinsouza.work/project/pos-system-running-at-a-cloud-stack/</link>
       <pubDate>Tue, 09 Oct 2018 00:29:30 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/pos-system-running-at-a-cloud-stack/</guid>
+      <guid>https://www.vinsouza.work/project/pos-system-running-at-a-cloud-stack/</guid>
       <description>To discur here</description>
     </item>
     
     <item>
       <title>Pure Android Dating App</title>
-      <link>https://vinsouza.work/project/pure-android-dating-app/</link>
+      <link>https://www.vinsouza.work/project/pure-android-dating-app/</link>
       <pubDate>Mon, 08 Oct 2018 23:34:38 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/pure-android-dating-app/</guid>
+      <guid>https://www.vinsouza.work/project/pure-android-dating-app/</guid>
       <description>This was my first Android project, using Java and pure Android code.
 We hired a external company to do our app, but they were taking too long. That said, that&amp;rsquo;s where I enter.
 I got the project from their hands, the project had barely started, and had to join forces with the web designer we had in the company to make this app come to live.
@@ -115,10 +115,10 @@ Had many challenges working with this app, first Android app, first lots of imag
     
     <item>
       <title>Implement Notifications System on top of live chat system</title>
-      <link>https://vinsouza.work/project/implement-notifications-system-on-top-of-live-chat-system/</link>
+      <link>https://www.vinsouza.work/project/implement-notifications-system-on-top-of-live-chat-system/</link>
       <pubDate>Mon, 08 Oct 2018 23:31:55 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/implement-notifications-system-on-top-of-live-chat-system/</guid>
+      <guid>https://www.vinsouza.work/project/implement-notifications-system-on-top-of-live-chat-system/</guid>
       <description>After the live chat project was done, I had another challenge, add a layer to the notifications alerts.
 Using the PHP backend as the entry point, Python was able to retrieve users notifications, and send them to the connected clients.
 This gave us the ability to notify users about their own notifications, and the ability to give users a general warning in less then 10 seconds.
@@ -127,10 +127,10 @@ Users received the notification in milli-seconds as long as they were connected 
     
     <item>
       <title>Real Time Chat Engine using Python and Tornado</title>
-      <link>https://vinsouza.work/project/real-time-chat-engine-using-python-and-tornado/</link>
+      <link>https://www.vinsouza.work/project/real-time-chat-engine-using-python-and-tornado/</link>
       <pubDate>Mon, 08 Oct 2018 23:27:26 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/real-time-chat-engine-using-python-and-tornado/</guid>
+      <guid>https://www.vinsouza.work/project/real-time-chat-engine-using-python-and-tornado/</guid>
       <description>Pessoas.vc was running at Facebook, and one of the main goals to run there was to have a local chat for the users, where they could chat real time, without the hassle of page reloads, or COMET requests.
 At the time, Facebook had bought FriendFeed and released FriendFeed HTTP Server and Framework to the wild.
 Using them a combination of WebSockets, Python, and Tornado, I was able to integrate the internal PHP backend with the Live Chat process.</description>
@@ -138,10 +138,10 @@ Using them a combination of WebSockets, Python, and Tornado, I was able to integ
     
     <item>
       <title>Create a In-House parser for OpenSocial canvas XML</title>
-      <link>https://vinsouza.work/project/create-a-in-house-parser-for-opensocial-canvas-xml/</link>
+      <link>https://www.vinsouza.work/project/create-a-in-house-parser-for-opensocial-canvas-xml/</link>
       <pubDate>Mon, 08 Oct 2018 23:22:29 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/create-a-in-house-parser-for-opensocial-canvas-xml/</guid>
+      <guid>https://www.vinsouza.work/project/create-a-in-house-parser-for-opensocial-canvas-xml/</guid>
       <description>After we launched at Orkut, we had to expand, and the next social network at our list was MySpace.
 We then had to do some small changes here and there to accommodate the users and their own stack.
 First thing was to integrate the OpenSocial login we had from Orkut to MySpace, even thought they had joined forces to create the OpenSocial consortium, the thing wasn&amp;rsquo;t really working the same way to all of them.</description>
@@ -149,10 +149,10 @@ First thing was to integrate the OpenSocial login we had from Orkut to MySpace, 
     
     <item>
       <title>Creating a In-House CDN for Images</title>
-      <link>https://vinsouza.work/project/creating-a-in-house-cdn-for-images/</link>
+      <link>https://www.vinsouza.work/project/creating-a-in-house-cdn-for-images/</link>
       <pubDate>Mon, 08 Oct 2018 23:14:37 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/creating-a-in-house-cdn-for-images/</guid>
+      <guid>https://www.vinsouza.work/project/creating-a-in-house-cdn-for-images/</guid>
       <description>We had a huge issue, the images were being stored in a single server, and that said, we had to migrate this to a distributed servers architecture.
 At the time, I had researched some of the best CDNs available, but they all lacked one thing: &amp;ldquo;low prices&amp;rdquo;. Working on a budget means being creative, and some times, you need to do it right, and do it first.
 After presenting the options we had to the members board, we decided to go with a different approach: &amp;ldquo;Let&amp;rsquo;s copy some of these guys and do our own CDN&amp;rdquo;.</description>
@@ -160,10 +160,10 @@ After presenting the options we had to the members board, we decided to go with 
     
     <item>
       <title>Dating Application for Orkut</title>
-      <link>https://vinsouza.work/project/dating-application-for-orkut/</link>
+      <link>https://www.vinsouza.work/project/dating-application-for-orkut/</link>
       <pubDate>Mon, 08 Oct 2018 23:08:30 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/dating-application-for-orkut/</guid>
+      <guid>https://www.vinsouza.work/project/dating-application-for-orkut/</guid>
       <description>My work with StayTrack got out, and a local entrepreneur got in contact.
 He said he were seeking for someone with knowledge with PHP to be one of the first developers into his company&amp;rsquo;s team.
 The project was: A Dating App for Orkut, at the time, the main social network at Brazil and India, one of a kind. Facebook wasn&amp;rsquo;t even born yet.
@@ -172,10 +172,10 @@ At this project I learned more and more about the high performance systems, we l
     
     <item>
       <title>Translation of Announcements and Software Modules</title>
-      <link>https://vinsouza.work/project/translation-of-announcements-and-software-modules/</link>
+      <link>https://www.vinsouza.work/project/translation-of-announcements-and-software-modules/</link>
       <pubDate>Mon, 08 Oct 2018 23:03:23 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/translation-of-announcements-and-software-modules/</guid>
+      <guid>https://www.vinsouza.work/project/translation-of-announcements-and-software-modules/</guid>
       <description>When I first met Linux I felt in love with the K Desktop Environment, and this love got me to the spirit of helping and community.
 With small steps, I got into the Brazilian KDE community, and started translating the KDE Announcements from English to Brazilian Portuguese.
 As soon as the official announcements were release, we had 1 hour tops to get them translated, so the project could start their own promotion.</description>
@@ -183,10 +183,10 @@ As soon as the official announcements were release, we had 1 hour tops to get th
     
     <item>
       <title>Reverse Proxy with Squid to improve performance</title>
-      <link>https://vinsouza.work/project/reverse-proxy-with-squid-to-improve-performance/</link>
+      <link>https://www.vinsouza.work/project/reverse-proxy-with-squid-to-improve-performance/</link>
       <pubDate>Mon, 08 Oct 2018 22:52:31 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/reverse-proxy-with-squid-to-improve-performance/</guid>
+      <guid>https://www.vinsouza.work/project/reverse-proxy-with-squid-to-improve-performance/</guid>
       <description>The company had a big issue, their static pages were being served by the internal IIS server.
 At the time, IIS wasn&amp;rsquo;t really improved as what we have today. My job was to discover how to reduce the company site loading time, in order to improve the user experience.
 After some hours of debugging I found that the main culprit were pages that could simply be cached and served by a reverse proxy.</description>
@@ -194,10 +194,10 @@ After some hours of debugging I found that the main culprit were pages that coul
     
     <item>
       <title>Live Car Tracking for the Customers</title>
-      <link>https://vinsouza.work/project/live-car-tracking-for-the-customers/</link>
+      <link>https://www.vinsouza.work/project/live-car-tracking-for-the-customers/</link>
       <pubDate>Mon, 08 Oct 2018 22:49:23 -0300</pubDate>
       
-      <guid>https://vinsouza.work/project/live-car-tracking-for-the-customers/</guid>
+      <guid>https://www.vinsouza.work/project/live-car-tracking-for-the-customers/</guid>
       <description>Using PHP and Google Maps API I handled the integration with the proprietary car tracking system used by the staff.
 Using ACLs to control what the clients were able to see, and which cars they were allowed to see, I arranged a nice and direct interface, so the clients could just login, choose their cars, and track them real time.
 With this project I was able to reduce the number of phone calls to the customer central by 70%.</description>
@@ -205,20 +205,20 @@ With this project I was able to reduce the number of phone calls to the customer
     
     <item>
       <title>DRAFT: A.I. - Artificial as fu**</title>
-      <link>https://vinsouza.work/blog/ai-artificial-as-fuxx/</link>
+      <link>https://www.vinsouza.work/blog/ai-artificial-as-fuxx/</link>
       <pubDate>Mon, 08 Oct 2018 21:10:51 -0300</pubDate>
       
-      <guid>https://vinsouza.work/blog/ai-artificial-as-fuxx/</guid>
+      <guid>https://www.vinsouza.work/blog/ai-artificial-as-fuxx/</guid>
       <description>I’m not a Data Scientist First things first, you know, I’m not a Data Scientist, even thought, I have a strong opinion that&amp;nbsp;“Data Scientist” is just a fancy term for a software developer who knows how to dig into some large data sets.
 Either I’m a Artificial Intelligence scientist, the ones you can image, wearing white suits, and working at a lab, exploring the human brain, just like you can see at the&amp;nbsp;“Transcendence” movie.</description>
     </item>
     
     <item>
       <title>What&#39;s a Senior Web Developer</title>
-      <link>https://vinsouza.work/blog/what-is-a-senior-web-developer/</link>
+      <link>https://www.vinsouza.work/blog/what-is-a-senior-web-developer/</link>
       <pubDate>Mon, 08 Oct 2018 21:09:22 -0300</pubDate>
       
-      <guid>https://vinsouza.work/blog/what-is-a-senior-web-developer/</guid>
+      <guid>https://www.vinsouza.work/blog/what-is-a-senior-web-developer/</guid>
       <description>Well, besides being a fancy name &amp;ldquo;Senior&amp;rdquo;, there&amp;rsquo;s more than years of development experience.
 Yes, I know, seniority comes with aging, and responsibilities. But there&amp;rsquo;s somethings we can&amp;rsquo;t forget when thinking about &amp;ldquo;Senior&amp;rdquo;.
 &amp;ldquo;Years of experience&amp;rdquo;:
@@ -227,66 +227,66 @@ Yes, I also consider someone a Senior when they have many years of experience in
     
     <item>
       <title>Quick Post: Sandbox Plugin Loader</title>
-      <link>https://vinsouza.work/blog/quick-post-sandbox-plugin-loader/</link>
+      <link>https://www.vinsouza.work/blog/quick-post-sandbox-plugin-loader/</link>
       <pubDate>Mon, 08 Oct 2018 21:07:46 -0300</pubDate>
       
-      <guid>https://vinsouza.work/blog/quick-post-sandbox-plugin-loader/</guid>
+      <guid>https://www.vinsouza.work/blog/quick-post-sandbox-plugin-loader/</guid>
       <description>This gist is about a sandbox plugin loader I made myself, it&amp;rsquo;s a simple one, just redefines the functions you forbid, so you can include the plugin code (better if you checkout the code first) and rest assured that the plugin can&amp;rsquo;t access other files, use it with open_basedir setted up
 https://gist.github.com/tryvin/a9f4622601d19a425267</description>
     </item>
     
     <item>
       <title>Separators</title>
-      <link>https://vinsouza.work/blog/qt-separators/</link>
+      <link>https://www.vinsouza.work/blog/qt-separators/</link>
       <pubDate>Mon, 08 Oct 2018 21:06:06 -0300</pubDate>
       
-      <guid>https://vinsouza.work/blog/qt-separators/</guid>
+      <guid>https://www.vinsouza.work/blog/qt-separators/</guid>
       <description>One beautiful thing about computer programming are the differences from OS to OS, from Windows, to nix, and so on.
 When we are writing cross-platform code, as in my case where my dev machine is a Windows 10 machine, and our production servers are all Linux, we have some little things that you need to go on with an IF or some constant from the Programming Language or the toolkit.</description>
     </item>
     
     <item>
       <title>A.P.I. - Application programming interface</title>
-      <link>https://vinsouza.work/blog/api-application-programming-interface/</link>
+      <link>https://www.vinsouza.work/blog/api-application-programming-interface/</link>
       <pubDate>Mon, 08 Oct 2018 21:04:25 -0300</pubDate>
       
-      <guid>https://vinsouza.work/blog/api-application-programming-interface/</guid>
+      <guid>https://www.vinsouza.work/blog/api-application-programming-interface/</guid>
       <description>From WikiPedia (https://en.wikipedia.org/wiki/Application_programming_interface): &amp;gt; In computer programming, an application programming interface (API) is a set of routines, protocols, and tools for building software applications. An API expresses a software component in terms of its operations, inputs, outputs, and underlying types, defining functionalities that are independent of their respective implementations, which allows definitions and implementations to vary without compromising the interface. A good API makes it easier to develop a program by providing all the building blocks, which are then put together by the programmer.</description>
     </item>
     
     <item>
       <title>The thing about programming is that writing lines of code is easy; it’s putting all those lines together in a coherent fashion that’s the hard part.</title>
-      <link>https://vinsouza.work/blog/quote-the-thing-about-programming-writing-lines-of-code/</link>
+      <link>https://www.vinsouza.work/blog/quote-the-thing-about-programming-writing-lines-of-code/</link>
       <pubDate>Mon, 08 Oct 2018 21:03:26 -0300</pubDate>
       
-      <guid>https://vinsouza.work/blog/quote-the-thing-about-programming-writing-lines-of-code/</guid>
+      <guid>https://www.vinsouza.work/blog/quote-the-thing-about-programming-writing-lines-of-code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The thing about programming is that often you’ll work out how to solve a proble while lying in bed and trying to sleep, but you’ll never remember what the solution was in the morning.</title>
-      <link>https://vinsouza.work/blog/quote-the-thing-about-programming/</link>
+      <link>https://www.vinsouza.work/blog/quote-the-thing-about-programming/</link>
       <pubDate>Mon, 08 Oct 2018 21:02:51 -0300</pubDate>
       
-      <guid>https://vinsouza.work/blog/quote-the-thing-about-programming/</guid>
+      <guid>https://www.vinsouza.work/blog/quote-the-thing-about-programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The size of your strength is totally inverse to the size of your fear</title>
-      <link>https://vinsouza.work/blog/quote-the-size-of-your-strength/</link>
+      <link>https://www.vinsouza.work/blog/quote-the-size-of-your-strength/</link>
       <pubDate>Mon, 08 Oct 2018 21:01:29 -0300</pubDate>
       
-      <guid>https://vinsouza.work/blog/quote-the-size-of-your-strength/</guid>
+      <guid>https://www.vinsouza.work/blog/quote-the-size-of-your-strength/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Globalization: Food</title>
-      <link>https://vinsouza.work/blog/globalization-food/</link>
+      <link>https://www.vinsouza.work/blog/globalization-food/</link>
       <pubDate>Mon, 08 Oct 2018 20:59:31 -0300</pubDate>
       
-      <guid>https://vinsouza.work/blog/globalization-food/</guid>
+      <guid>https://www.vinsouza.work/blog/globalization-food/</guid>
       <description>Hello guys, sorry for the late post. I’m still getting used to blogging.
 So, as you can see on the blog title, it’s about a multi-task guy, who can cook, write, code, and photograph. This&amp;nbsp;post is about food, but I’m not teaching a recipe, I will be talking about the globalization in the food sector.
 Since civilization started, people transformed something, into another thing. You know, wheat into flour, flour into bread, bread into Bruschettas!</description>
@@ -294,10 +294,10 @@ Since civilization started, people transformed something, into another thing. Yo
     
     <item>
       <title>Λ (λ) - From Half-a-Life, to PHP</title>
-      <link>https://vinsouza.work/blog/lambda-from-half-a-life-to-php/</link>
+      <link>https://www.vinsouza.work/blog/lambda-from-half-a-life-to-php/</link>
       <pubDate>Mon, 08 Oct 2018 20:54:26 -0300</pubDate>
       
-      <guid>https://vinsouza.work/blog/lambda-from-half-a-life-to-php/</guid>
+      <guid>https://www.vinsouza.work/blog/lambda-from-half-a-life-to-php/</guid>
       <description>From Wikipedia:
 is the 11th letter of the Greek alphabet. In the system of Greek numerals lambda has a value of 30.&amp;nbsp;
 From Half-life wikia:
@@ -306,20 +306,20 @@ In the original Half-Life, Gordon Freeman&amp;rsquo;s trademark HEV Suit was mar
     
     <item>
       <title>Doctor WHAT? No, Doctor Who</title>
-      <link>https://vinsouza.work/blog/doctor-what-no-doctor-who/</link>
+      <link>https://www.vinsouza.work/blog/doctor-what-no-doctor-who/</link>
       <pubDate>Mon, 08 Oct 2018 20:50:35 -0300</pubDate>
       
-      <guid>https://vinsouza.work/blog/doctor-what-no-doctor-who/</guid>
+      <guid>https://www.vinsouza.work/blog/doctor-what-no-doctor-who/</guid>
       <description>I’m a sci-fiction fan, and that’s no secret to every other sci-fiction fan that Doctor Who is a huge TV show, with a huge team around it, and a huge fan base.
 But to everyone else, who in the heck is Doctor Who? Doctor Who is an human-alien, a timelord (Timelords were a human-like-race, even so they say timelords came first, so, we are timelord-like-race. And they could travel in time and space).</description>
     </item>
     
     <item>
       <title>echo &#34;Hello world&#34;;</title>
-      <link>https://vinsouza.work/blog/echo-hello-world/</link>
+      <link>https://www.vinsouza.work/blog/echo-hello-world/</link>
       <pubDate>Mon, 08 Oct 2018 20:49:28 -0300</pubDate>
       
-      <guid>https://vinsouza.work/blog/echo-hello-world/</guid>
+      <guid>https://www.vinsouza.work/blog/echo-hello-world/</guid>
       <description>Hello guys,
 So, what all these words in my title has in common? Well, we could say pretty much nothing, but I don’t think so. All these worlds talk about getting something, and transforming this in another thing. We are talking about getting “raw data” as input, and sending something processed as output.
 That’s all about my life, I’m a computer programmer, even so I prefer the term&amp;nbsp;“tech solution developer”, and my thing is all about that bass (just kidding), I’m all about web and mobile, I like to know that I can push an update to everyone with a single Git commit to the server, and in the next refresh from the user, tadam, everything changed!</description>
@@ -327,85 +327,85 @@ That’s all about my life, I’m a computer programmer, even so I prefer the te
     
     <item>
       <title>HIPAA Privacy &amp; Security Training for Business Associates</title>
-      <link>https://vinsouza.work/certification/hipaa-privacy-and-security-training/</link>
+      <link>https://www.vinsouza.work/certification/hipaa-privacy-and-security-training/</link>
       <pubDate>Mon, 08 Oct 2018 16:07:57 -0300</pubDate>
       
-      <guid>https://vinsouza.work/certification/hipaa-privacy-and-security-training/</guid>
+      <guid>https://www.vinsouza.work/certification/hipaa-privacy-and-security-training/</guid>
       <description>What is HIPAA HIPAA stands for Health Insurance Portability and Accountability Act, it&amp;rsquo;s a USA and it&amp;rsquo;s territories law to protect, estabilish standards, tax for medical spending accounts, and guidelines for helath plans, among government life insurance policies.
 What is this certification for? The HIPAA Privacy &amp;amp; Security Training for Business Associates certifies that I&amp;rsquo;m capable of complying with the Title I of the HIPAA laws, regarding protection of patients&amp;rsquo; health data.</description>
     </item>
     
     <item>
       <title>PHP Development</title>
-      <link>https://vinsouza.work/service/php-development/</link>
+      <link>https://www.vinsouza.work/service/php-development/</link>
       <pubDate>Sat, 06 Oct 2018 19:04:33 -0300</pubDate>
       
-      <guid>https://vinsouza.work/service/php-development/</guid>
+      <guid>https://www.vinsouza.work/service/php-development/</guid>
       <description>PHP Development here</description>
     </item>
     
     <item>
       <title>Squid Proxy at IFS</title>
-      <link>https://vinsouza.work/project/squid-proxy-at-ifs/</link>
+      <link>https://www.vinsouza.work/project/squid-proxy-at-ifs/</link>
       <pubDate>Sat, 06 Oct 2018 21:38:31 +0000</pubDate>
       
-      <guid>https://vinsouza.work/project/squid-proxy-at-ifs/</guid>
+      <guid>https://www.vinsouza.work/project/squid-proxy-at-ifs/</guid>
       <description>This was one of my first projects at IFS, setting up and keeping it running smoothly to handle the user network traffic from the whole institute.
 Made us save 40% on bandwidth, with good network rules, caching Windows updates, and Anti-virus updates.</description>
     </item>
     
     <item>
       <title>Network Management</title>
-      <link>https://vinsouza.work/service/network-management/</link>
+      <link>https://www.vinsouza.work/service/network-management/</link>
       <pubDate>Sat, 06 Oct 2018 17:56:07 -0300</pubDate>
       
-      <guid>https://vinsouza.work/service/network-management/</guid>
+      <guid>https://www.vinsouza.work/service/network-management/</guid>
       <description>Service text description here</description>
     </item>
     
     <item>
       <title>Business Model Canvas</title>
-      <link>https://vinsouza.work/service/business-model-canvas/</link>
+      <link>https://www.vinsouza.work/service/business-model-canvas/</link>
       <pubDate>Sat, 06 Oct 2018 17:55:53 -0300</pubDate>
       
-      <guid>https://vinsouza.work/service/business-model-canvas/</guid>
+      <guid>https://www.vinsouza.work/service/business-model-canvas/</guid>
       <description>Service text description here</description>
     </item>
     
     <item>
       <title>SEO</title>
-      <link>https://vinsouza.work/service/seo/</link>
+      <link>https://www.vinsouza.work/service/seo/</link>
       <pubDate>Sat, 06 Oct 2018 17:54:13 -0300</pubDate>
       
-      <guid>https://vinsouza.work/service/seo/</guid>
+      <guid>https://www.vinsouza.work/service/seo/</guid>
       <description>Service text description here</description>
     </item>
     
     <item>
       <title>Scalable Path</title>
-      <link>https://vinsouza.work/workexperience/scalable-path/</link>
+      <link>https://www.vinsouza.work/workexperience/scalable-path/</link>
       <pubDate>Sat, 06 Oct 2018 19:37:59 +0000</pubDate>
       
-      <guid>https://vinsouza.work/workexperience/scalable-path/</guid>
+      <guid>https://www.vinsouza.work/workexperience/scalable-path/</guid>
       <description>What is Scalable Path Scalable Path is a group of visionary strategists and technologists, headquartered in San Francisco, with a network of top talent worldwide. We work with companies to understand their business, technology, creative, and marketing needs. Then we put the right team, technologies, and processes in place to design, build and deliver awesome digital products. Our clients can work directly with their team in a staff augmentation model, or have a Scalable Path leader manage the project end-to-end.</description>
     </item>
     
     <item>
       <title>8Sistemas</title>
-      <link>https://vinsouza.work/workexperience/8sistemas/</link>
+      <link>https://www.vinsouza.work/workexperience/8sistemas/</link>
       <pubDate>Sat, 06 Oct 2018 19:37:03 +0000</pubDate>
       
-      <guid>https://vinsouza.work/workexperience/8sistemas/</guid>
+      <guid>https://www.vinsouza.work/workexperience/8sistemas/</guid>
       <description>What is 8Sistemas Brazilian company of software development and business adminitration guidance. Creator of the PaygatePOS, a Point of Sale software running mainly on the cloud.
 What I do for 8Sistemas Software development with PHP, C++ (mainly with Qt), and system administration, keeping the servers running nice and smoothly, and fixing bugs here and there in the POS system.</description>
     </item>
     
     <item>
       <title>Pessoas.VC</title>
-      <link>https://vinsouza.work/workexperience/pessoas-vc/</link>
+      <link>https://www.vinsouza.work/workexperience/pessoas-vc/</link>
       <pubDate>Sat, 06 Oct 2018 19:36:01 +0000</pubDate>
       
-      <guid>https://vinsouza.work/workexperience/pessoas-vc/</guid>
+      <guid>https://www.vinsouza.work/workexperience/pessoas-vc/</guid>
       <description>What is Pessoas.vc Pessoas.vc was one of the best Facebook Dating Apps, being a big player at Brazil, before being sold to USA Massive Media.
 What have I done at Pessoas.vc I was the head developer, in charge of keeping every one of the developers on track, and helping them solve their challenges, alongside with my own challenges.
 Creating a in-house network image CDN, helping keep the servers running with the million user traffic.</description>
@@ -413,59 +413,59 @@ Creating a in-house network image CDN, helping keep the servers running with the
     
     <item>
       <title>KinuX E.v.</title>
-      <link>https://vinsouza.work/workexperience/kinux-ev/</link>
+      <link>https://www.vinsouza.work/workexperience/kinux-ev/</link>
       <pubDate>Sat, 06 Oct 2018 19:34:51 +0000</pubDate>
       
-      <guid>https://vinsouza.work/workexperience/kinux-ev/</guid>
+      <guid>https://www.vinsouza.work/workexperience/kinux-ev/</guid>
       <description>What is KinuX E.v. KinuX E.v. was the organization behind the KinuX Linux, a Brazilian linux distribution based on Arch Linux, and at some point in Linux From Scratch.
 What have I done in KinuX E.v. I was responsible for hearing out the community, writing the release announcements, alongside with keeping the servers running. Testing new features, and doing developers onboard.</description>
     </item>
     
     <item>
       <title>Hiper Social</title>
-      <link>https://vinsouza.work/workexperience/hiper-social/</link>
+      <link>https://www.vinsouza.work/workexperience/hiper-social/</link>
       <pubDate>Sat, 06 Oct 2018 19:33:46 +0000</pubDate>
       
-      <guid>https://vinsouza.work/workexperience/hiper-social/</guid>
+      <guid>https://www.vinsouza.work/workexperience/hiper-social/</guid>
       <description>What is HiperSocial HiperSocial was a Brazilian company creator of a famous Orkut dating application, called &amp;ldquo;Vou, Não Vou&amp;rdquo;.
 What I have done at HiperSocial I was one of the first developers, and then Scrum Master responsible of keeping the main application in track, alongside with this application, we had a partnership contract with &amp;ldquo;Globosat&amp;rdquo;, the big TV and Multimedia company at Brazil, we were in charge of building their social Orkut apps, and handling all the user traffic to these apps.</description>
     </item>
     
     <item>
       <title>KDE</title>
-      <link>https://vinsouza.work/workexperience/kde/</link>
+      <link>https://www.vinsouza.work/workexperience/kde/</link>
       <pubDate>Sat, 06 Oct 2018 19:31:28 +0000</pubDate>
       
-      <guid>https://vinsouza.work/workexperience/kde/</guid>
+      <guid>https://www.vinsouza.work/workexperience/kde/</guid>
       <description>What is KDE KDE is an international free software community that develops Free and Open Source based software. Well-known products include the Plasma Desktop, KDE Frameworks and a range of cross-platform applications designed to run on Unix-like desktops, Microsoft Windows and Android. It further provides tools and documentation for developers that enables them to write software. This supporting role makes KDE a central development hub and home for many popular applications and projects like Calligra Suite, Krita or digiKam.</description>
     </item>
     
     <item>
       <title>StayTrack</title>
-      <link>https://vinsouza.work/workexperience/staytrack/</link>
+      <link>https://www.vinsouza.work/workexperience/staytrack/</link>
       <pubDate>Sat, 06 Oct 2018 19:30:10 +0000</pubDate>
       
-      <guid>https://vinsouza.work/workexperience/staytrack/</guid>
+      <guid>https://www.vinsouza.work/workexperience/staytrack/</guid>
       <description>What is StayTrack Brazilian car tracking and recovery company.
 What have I worked on at StayTrack I was the I.T. Manager, working with the maintenance of the Windows Servers systems, and a mixed software park of MySQL and SQLServer database servers, keeping things running nice and smoothly, so the staff could do their best to track and recover cars, and trucks. Also, worked on a new interface for the customers to track real time their vehicles, using PHP, Google Maps, and a little of magic to integrate with the existing commercial system.</description>
     </item>
     
     <item>
       <title>IFS</title>
-      <link>https://vinsouza.work/workexperience/ifs/</link>
+      <link>https://www.vinsouza.work/workexperience/ifs/</link>
       <pubDate>Sat, 06 Oct 2018 19:25:06 +0000</pubDate>
       
-      <guid>https://vinsouza.work/workexperience/ifs/</guid>
+      <guid>https://www.vinsouza.work/workexperience/ifs/</guid>
       <description>What is IFS Sergipe&amp;rsquo;s Federal Institute is the techonological federal institute for the State of Sergipe in Brazil.
 What have I done at IFS I was a network sector trainee, and was in charge of helping users in their day-to-day tasks. Also, learned how to setup network servers, and keep Windows NT servers running. My best Linux labs started there, messing with Proxy Servers, and mixed servers parks.</description>
     </item>
     
     <item>
       <title>DevOPS Foundation</title>
-      <link>https://vinsouza.work/certification/devops-foundation/</link>
+      <link>https://www.vinsouza.work/certification/devops-foundation/</link>
       <pubDate>Sat, 06 Oct 2018 16:22:50 -0300</pubDate>
       
-      <guid>https://vinsouza.work/certification/devops-foundation/</guid>
+      <guid>https://www.vinsouza.work/certification/devops-foundation/</guid>
       <description>What is DevOPS? DevOps is a software development methodology combining software development (Dev) with information technology operations (Ops).
 The goal of DevOps is to shorten the systems development life cycle while also delivering features, fixes, and updates frequently in close alignment with business objectives.
 The DevOps approach is to include automation and event monitoring at all steps of the software build.
@@ -474,57 +474,57 @@ What is this certification for? This certification attests that I have knowledge
     
     <item>
       <title>Agile Management With Scrum</title>
-      <link>https://vinsouza.work/certification/agile-management-with-scrum/</link>
+      <link>https://www.vinsouza.work/certification/agile-management-with-scrum/</link>
       <pubDate>Sat, 06 Oct 2018 16:18:41 -0300</pubDate>
       
-      <guid>https://vinsouza.work/certification/agile-management-with-scrum/</guid>
+      <guid>https://www.vinsouza.work/certification/agile-management-with-scrum/</guid>
       <description>What is Scrum? Scrum is an agile framework for managing knowledge work, with an emphasis on software development. It is designed for teams of three to nine members, who break their work into actions that can be completed within timeboxed iterations, called &amp;ldquo;sprints&amp;rdquo;, no longer than one month and most commonly two weeks, then track progress and re-plan in 15-minute stand-up meetings, called daily scrums.
 What is this certification for?</description>
     </item>
     
     <item>
       <title>Agile Scrum Foundation</title>
-      <link>https://vinsouza.work/certification/agile-scrum-foundation/</link>
+      <link>https://www.vinsouza.work/certification/agile-scrum-foundation/</link>
       <pubDate>Sat, 06 Oct 2018 16:16:19 -0300</pubDate>
       
-      <guid>https://vinsouza.work/certification/agile-scrum-foundation/</guid>
+      <guid>https://www.vinsouza.work/certification/agile-scrum-foundation/</guid>
       <description>What is Scrum? Scrum is an agile framework for managing knowledge work, with an emphasis on software development. It is designed for teams of three to nine members, who break their work into actions that can be completed within timeboxed iterations, called &amp;ldquo;sprints&amp;rdquo;, no longer than one month and most commonly two weeks, then track progress and re-plan in 15-minute stand-up meetings, called daily scrums.
 What is this certification for?</description>
     </item>
     
     <item>
       <title>Master of Business Administration - MBA</title>
-      <link>https://vinsouza.work/education/master-of-business-administration-mba/</link>
+      <link>https://www.vinsouza.work/education/master-of-business-administration-mba/</link>
       <pubDate>Sat, 06 Oct 2018 16:05:37 -0300</pubDate>
       
-      <guid>https://vinsouza.work/education/master-of-business-administration-mba/</guid>
+      <guid>https://www.vinsouza.work/education/master-of-business-administration-mba/</guid>
       <description>What is a MBA? The Master of Business Administration (MBA or M.B.A.) degree originated in the United States in the early 20th century when the country industrialized and companies sought scientific approaches to management. The core courses in an MBA program cover various areas of business such as accounting, applied statistics, business communication, business ethics, business law, finance, managerial economics, management, entrepreneurship, marketing and operations in a manner most relevant to management analysis and strategy.</description>
     </item>
     
     <item>
       <title>Bachelor, Statistics</title>
-      <link>https://vinsouza.work/education/bachelor-statistics/</link>
+      <link>https://www.vinsouza.work/education/bachelor-statistics/</link>
       <pubDate>Sat, 06 Oct 2018 16:01:27 -0300</pubDate>
       
-      <guid>https://vinsouza.work/education/bachelor-statistics/</guid>
+      <guid>https://www.vinsouza.work/education/bachelor-statistics/</guid>
       <description>Education text description here</description>
     </item>
     
     <item>
       <title>Get in touch!</title>
-      <link>https://vinsouza.work/contact/</link>
+      <link>https://www.vinsouza.work/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vinsouza.work/contact/</guid>
+      <guid>https://www.vinsouza.work/contact/</guid>
       <description>You may find me at</description>
     </item>
     
     <item>
       <title>Hire me!</title>
-      <link>https://vinsouza.work/hire-me/</link>
+      <link>https://www.vinsouza.work/hire-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vinsouza.work/hire-me/</guid>
+      <guid>https://www.vinsouza.work/hire-me/</guid>
       <description>You may find me at</description>
     </item>
     

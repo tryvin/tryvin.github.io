@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Vin Souza (@tryvin)</title>
-    <link>https://vinsouza.work/service/</link>
+    <link>https://www.vinsouza.work/service/</link>
     <description>Recent content in Services on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Oct 2018 19:04:33 -0300</lastBuildDate>
     
-	<atom:link href="https://vinsouza.work/service/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.vinsouza.work/service/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PHP Development</title>
-      <link>https://vinsouza.work/service/php-development/</link>
+      <link>https://www.vinsouza.work/service/php-development/</link>
       <pubDate>Sat, 06 Oct 2018 19:04:33 -0300</pubDate>
       
-      <guid>https://vinsouza.work/service/php-development/</guid>
+      <guid>https://www.vinsouza.work/service/php-development/</guid>
       <description>PHP Development here</description>
     </item>
     
     <item>
       <title>Network Management</title>
-      <link>https://vinsouza.work/service/network-management/</link>
+      <link>https://www.vinsouza.work/service/network-management/</link>
       <pubDate>Sat, 06 Oct 2018 17:56:07 -0300</pubDate>
       
-      <guid>https://vinsouza.work/service/network-management/</guid>
+      <guid>https://www.vinsouza.work/service/network-management/</guid>
       <description>Service text description here</description>
     </item>
     
     <item>
       <title>Business Model Canvas</title>
-      <link>https://vinsouza.work/service/business-model-canvas/</link>
+      <link>https://www.vinsouza.work/service/business-model-canvas/</link>
       <pubDate>Sat, 06 Oct 2018 17:55:53 -0300</pubDate>
       
-      <guid>https://vinsouza.work/service/business-model-canvas/</guid>
+      <guid>https://www.vinsouza.work/service/business-model-canvas/</guid>
       <description>Service text description here</description>
     </item>
     
     <item>
       <title>SEO</title>
-      <link>https://vinsouza.work/service/seo/</link>
+      <link>https://www.vinsouza.work/service/seo/</link>
       <pubDate>Sat, 06 Oct 2018 17:54:13 -0300</pubDate>
       
-      <guid>https://vinsouza.work/service/seo/</guid>
+      <guid>https://www.vinsouza.work/service/seo/</guid>
       <description>Service text description here</description>
     </item>
     

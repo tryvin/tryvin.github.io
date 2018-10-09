@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vinsouza.work/project/translation-of-announcements-and-software-modules/</loc>
+    <lastmod>2018-10-08T23:03:23-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vinsouza.work/project/reverse-proxy-with-squid-to-improve-performance/</loc>
     <lastmod>2018-10-08T22:52:31-03:00</lastmod>
   </url>
@@ -200,7 +205,7 @@
   
   <url>
     <loc>https://vinsouza.work/project/</loc>
-    <lastmod>2018-10-08T22:52:31-03:00</lastmod>
+    <lastmod>2018-10-08T23:03:23-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -217,7 +222,7 @@
   
   <url>
     <loc>https://vinsouza.work/</loc>
-    <lastmod>2018-10-08T22:52:31-03:00</lastmod>
+    <lastmod>2018-10-08T23:03:23-03:00</lastmod>
     <priority>0</priority>
   </url>
   

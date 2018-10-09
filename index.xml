@@ -6,10 +6,21 @@
     <description>Recent content on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Oct 2018 22:52:31 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 08 Oct 2018 23:03:23 -0300</lastBuildDate>
     
 	<atom:link href="https://vinsouza.work/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Translation of Announcements and Software Modules</title>
+      <link>https://vinsouza.work/project/translation-of-announcements-and-software-modules/</link>
+      <pubDate>Mon, 08 Oct 2018 23:03:23 -0300</pubDate>
+      
+      <guid>https://vinsouza.work/project/translation-of-announcements-and-software-modules/</guid>
+      <description>When I first met Linux I felt in love with the K Desktop Environment, and this love got me to the spirit of helping and community.
+With small steps, I got into the Brazilian KDE community, and started translating the KDE Announcements from English to Brazilian Portuguese.
+As soon as the official announcements were release, we had 1 hour tops to get them translated, so the project could start their own promotion.</description>
+    </item>
     
     <item>
       <title>Reverse Proxy with Squid to improve performance</title>

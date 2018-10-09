@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vin Souza (@tryvin)</title>
-    <link>https://www.vinsouza.work/</link>
+    <link>https://vinsouza.work/</link>
     <description>Recent content on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Oct 2018 21:10:51 -0300</lastBuildDate>
     
-	<atom:link href="https://www.vinsouza.work/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vinsouza.work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DRAFT: A.I. - Artificial as fu**</title>
-      <link>https://www.vinsouza.work/blog/ai-artificial-as-fuxx/</link>
+      <link>https://vinsouza.work/blog/ai-artificial-as-fuxx/</link>
       <pubDate>Mon, 08 Oct 2018 21:10:51 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/blog/ai-artificial-as-fuxx/</guid>
+      <guid>https://vinsouza.work/blog/ai-artificial-as-fuxx/</guid>
       <description>I’m not a Data Scientist First things first, you know, I’m not a Data Scientist, even thought, I have a strong opinion that&amp;nbsp;“Data Scientist” is just a fancy term for a software developer who knows how to dig into some large data sets.
 Either I’m a Artificial Intelligence scientist, the ones you can image, wearing white suits, and working at a lab, exploring the human brain, just like you can see at the&amp;nbsp;“Transcendence” movie.</description>
     </item>
     
     <item>
       <title>What&#39;s a Senior Web Developer</title>
-      <link>https://www.vinsouza.work/blog/what-is-a-senior-web-developer/</link>
+      <link>https://vinsouza.work/blog/what-is-a-senior-web-developer/</link>
       <pubDate>Mon, 08 Oct 2018 21:09:22 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/blog/what-is-a-senior-web-developer/</guid>
+      <guid>https://vinsouza.work/blog/what-is-a-senior-web-developer/</guid>
       <description>Well, besides being a fancy name &amp;ldquo;Senior&amp;rdquo;, there&amp;rsquo;s more than years of development experience.
 Yes, I know, seniority comes with aging, and responsibilities. But there&amp;rsquo;s somethings we can&amp;rsquo;t forget when thinking about &amp;ldquo;Senior&amp;rdquo;.
 &amp;ldquo;Years of experience&amp;rdquo;:
@@ -35,66 +35,66 @@ Yes, I also consider someone a Senior when they have many years of experience in
     
     <item>
       <title>Quick Post: Sandbox Plugin Loader</title>
-      <link>https://www.vinsouza.work/blog/quick-post-sandbox-plugin-loader/</link>
+      <link>https://vinsouza.work/blog/quick-post-sandbox-plugin-loader/</link>
       <pubDate>Mon, 08 Oct 2018 21:07:46 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/blog/quick-post-sandbox-plugin-loader/</guid>
+      <guid>https://vinsouza.work/blog/quick-post-sandbox-plugin-loader/</guid>
       <description>This gist is about a sandbox plugin loader I made myself, it&amp;rsquo;s a simple one, just redefines the functions you forbid, so you can include the plugin code (better if you checkout the code first) and rest assured that the plugin can&amp;rsquo;t access other files, use it with open_basedir setted up
 https://gist.github.com/tryvin/a9f4622601d19a425267</description>
     </item>
     
     <item>
       <title>Separators</title>
-      <link>https://www.vinsouza.work/blog/qt-separators/</link>
+      <link>https://vinsouza.work/blog/qt-separators/</link>
       <pubDate>Mon, 08 Oct 2018 21:06:06 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/blog/qt-separators/</guid>
+      <guid>https://vinsouza.work/blog/qt-separators/</guid>
       <description>One beautiful thing about computer programming are the differences from OS to OS, from Windows, to nix, and so on.
 When we are writing cross-platform code, as in my case where my dev machine is a Windows 10 machine, and our production servers are all Linux, we have some little things that you need to go on with an IF or some constant from the Programming Language or the toolkit.</description>
     </item>
     
     <item>
       <title>A.P.I. - Application programming interface</title>
-      <link>https://www.vinsouza.work/blog/api-application-programming-interface/</link>
+      <link>https://vinsouza.work/blog/api-application-programming-interface/</link>
       <pubDate>Mon, 08 Oct 2018 21:04:25 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/blog/api-application-programming-interface/</guid>
+      <guid>https://vinsouza.work/blog/api-application-programming-interface/</guid>
       <description>From WikiPedia (https://en.wikipedia.org/wiki/Application_programming_interface): &amp;gt; In computer programming, an application programming interface (API) is a set of routines, protocols, and tools for building software applications. An API expresses a software component in terms of its operations, inputs, outputs, and underlying types, defining functionalities that are independent of their respective implementations, which allows definitions and implementations to vary without compromising the interface. A good API makes it easier to develop a program by providing all the building blocks, which are then put together by the programmer.</description>
     </item>
     
     <item>
       <title>The thing about programming is that writing lines of code is easy; it’s putting all those lines together in a coherent fashion that’s the hard part.</title>
-      <link>https://www.vinsouza.work/blog/quote-the-thing-about-programming-writing-lines-of-code/</link>
+      <link>https://vinsouza.work/blog/quote-the-thing-about-programming-writing-lines-of-code/</link>
       <pubDate>Mon, 08 Oct 2018 21:03:26 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/blog/quote-the-thing-about-programming-writing-lines-of-code/</guid>
+      <guid>https://vinsouza.work/blog/quote-the-thing-about-programming-writing-lines-of-code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The thing about programming is that often you’ll work out how to solve a proble while lying in bed and trying to sleep, but you’ll never remember what the solution was in the morning.</title>
-      <link>https://www.vinsouza.work/blog/quote-the-thing-about-programming/</link>
+      <link>https://vinsouza.work/blog/quote-the-thing-about-programming/</link>
       <pubDate>Mon, 08 Oct 2018 21:02:51 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/blog/quote-the-thing-about-programming/</guid>
+      <guid>https://vinsouza.work/blog/quote-the-thing-about-programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The size of your strength is totally inverse to the size of your fear</title>
-      <link>https://www.vinsouza.work/blog/quote-the-size-of-your-strength/</link>
+      <link>https://vinsouza.work/blog/quote-the-size-of-your-strength/</link>
       <pubDate>Mon, 08 Oct 2018 21:01:29 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/blog/quote-the-size-of-your-strength/</guid>
+      <guid>https://vinsouza.work/blog/quote-the-size-of-your-strength/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Globalization: Food</title>
-      <link>https://www.vinsouza.work/blog/globalization-food/</link>
+      <link>https://vinsouza.work/blog/globalization-food/</link>
       <pubDate>Mon, 08 Oct 2018 20:59:31 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/blog/globalization-food/</guid>
+      <guid>https://vinsouza.work/blog/globalization-food/</guid>
       <description>Hello guys, sorry for the late post. I’m still getting used to blogging.
 So, as you can see on the blog title, it’s about a multi-task guy, who can cook, write, code, and photograph. This&amp;nbsp;post is about food, but I’m not teaching a recipe, I will be talking about the globalization in the food sector.
 Since civilization started, people transformed something, into another thing. You know, wheat into flour, flour into bread, bread into Bruschettas!</description>
@@ -102,10 +102,10 @@ Since civilization started, people transformed something, into another thing. Yo
     
     <item>
       <title>Λ (λ) - From Half-a-Life, to PHP</title>
-      <link>https://www.vinsouza.work/blog/lambda-from-half-a-life-to-php/</link>
+      <link>https://vinsouza.work/blog/lambda-from-half-a-life-to-php/</link>
       <pubDate>Mon, 08 Oct 2018 20:54:26 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/blog/lambda-from-half-a-life-to-php/</guid>
+      <guid>https://vinsouza.work/blog/lambda-from-half-a-life-to-php/</guid>
       <description>From Wikipedia:
 is the 11th letter of the Greek alphabet. In the system of Greek numerals lambda has a value of 30.&amp;nbsp;
 From Half-life wikia:
@@ -114,20 +114,20 @@ In the original Half-Life, Gordon Freeman&amp;rsquo;s trademark HEV Suit was mar
     
     <item>
       <title>Doctor WHAT? No, Doctor Who</title>
-      <link>https://www.vinsouza.work/blog/doctor-what-no-doctor-who/</link>
+      <link>https://vinsouza.work/blog/doctor-what-no-doctor-who/</link>
       <pubDate>Mon, 08 Oct 2018 20:50:35 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/blog/doctor-what-no-doctor-who/</guid>
+      <guid>https://vinsouza.work/blog/doctor-what-no-doctor-who/</guid>
       <description>I’m a sci-fiction fan, and that’s no secret to every other sci-fiction fan that Doctor Who is a huge TV show, with a huge team around it, and a huge fan base.
 But to everyone else, who in the heck is Doctor Who? Doctor Who is an human-alien, a timelord (Timelords were a human-like-race, even so they say timelords came first, so, we are timelord-like-race. And they could travel in time and space).</description>
     </item>
     
     <item>
       <title>echo &#34;Hello world&#34;;</title>
-      <link>https://www.vinsouza.work/blog/echo-hello-world/</link>
+      <link>https://vinsouza.work/blog/echo-hello-world/</link>
       <pubDate>Mon, 08 Oct 2018 20:49:28 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/blog/echo-hello-world/</guid>
+      <guid>https://vinsouza.work/blog/echo-hello-world/</guid>
       <description>Hello guys,
 So, what all these words in my title has in common? Well, we could say pretty much nothing, but I don’t think so. All these worlds talk about getting something, and transforming this in another thing. We are talking about getting “raw data” as input, and sending something processed as output.
 That’s all about my life, I’m a computer programmer, even so I prefer the term&amp;nbsp;“tech solution developer”, and my thing is all about that bass (just kidding), I’m all about web and mobile, I like to know that I can push an update to everyone with a single Git commit to the server, and in the next refresh from the user, tadam, everything changed!</description>
@@ -135,137 +135,137 @@ That’s all about my life, I’m a computer programmer, even so I prefer the te
     
     <item>
       <title>HIPAA Privacy &amp; Security Training for Business Associates</title>
-      <link>https://www.vinsouza.work/certification/hipaa-privacy-and-security-training/</link>
+      <link>https://vinsouza.work/certification/hipaa-privacy-and-security-training/</link>
       <pubDate>Mon, 08 Oct 2018 16:07:57 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/certification/hipaa-privacy-and-security-training/</guid>
+      <guid>https://vinsouza.work/certification/hipaa-privacy-and-security-training/</guid>
       <description>What is HIPAA HIPAA stands for Health Insurance Portability and Accountability Act, it&amp;rsquo;s a USA and it&amp;rsquo;s territories law to protect, estabilish standards, tax for medical spending accounts, and guidelines for helath plans, among government life insurance policies.
 What is this certification for? The HIPAA Privacy &amp;amp; Security Training for Business Associates certifies that I&amp;rsquo;m capable of complying with the Title I of the HIPAA laws, regarding protection of patients&amp;rsquo; health data.</description>
     </item>
     
     <item>
       <title>PHP Development</title>
-      <link>https://www.vinsouza.work/service/php-development/</link>
+      <link>https://vinsouza.work/service/php-development/</link>
       <pubDate>Sat, 06 Oct 2018 19:04:33 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/service/php-development/</guid>
+      <guid>https://vinsouza.work/service/php-development/</guid>
       <description>PHP Development here</description>
     </item>
     
     <item>
       <title>Squid Proxy at Ifs</title>
-      <link>https://www.vinsouza.work/project/squid-proxy-at-ifs/</link>
+      <link>https://vinsouza.work/project/squid-proxy-at-ifs/</link>
       <pubDate>Sat, 06 Oct 2018 18:38:31 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/project/squid-proxy-at-ifs/</guid>
+      <guid>https://vinsouza.work/project/squid-proxy-at-ifs/</guid>
       <description>Project text description here</description>
     </item>
     
     <item>
       <title>Network Management</title>
-      <link>https://www.vinsouza.work/service/network-management/</link>
+      <link>https://vinsouza.work/service/network-management/</link>
       <pubDate>Sat, 06 Oct 2018 17:56:07 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/service/network-management/</guid>
+      <guid>https://vinsouza.work/service/network-management/</guid>
       <description>Service text description here</description>
     </item>
     
     <item>
       <title>Business Model Canvas</title>
-      <link>https://www.vinsouza.work/service/business-model-canvas/</link>
+      <link>https://vinsouza.work/service/business-model-canvas/</link>
       <pubDate>Sat, 06 Oct 2018 17:55:53 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/service/business-model-canvas/</guid>
+      <guid>https://vinsouza.work/service/business-model-canvas/</guid>
       <description>Service text description here</description>
     </item>
     
     <item>
       <title>SEO</title>
-      <link>https://www.vinsouza.work/service/seo/</link>
+      <link>https://vinsouza.work/service/seo/</link>
       <pubDate>Sat, 06 Oct 2018 17:54:13 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/service/seo/</guid>
+      <guid>https://vinsouza.work/service/seo/</guid>
       <description>Service text description here</description>
     </item>
     
     <item>
       <title>Scalable Path</title>
-      <link>https://www.vinsouza.work/workexperience/scalable-path/</link>
+      <link>https://vinsouza.work/workexperience/scalable-path/</link>
       <pubDate>Sat, 06 Oct 2018 16:37:59 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/workexperience/scalable-path/</guid>
+      <guid>https://vinsouza.work/workexperience/scalable-path/</guid>
       <description>Work Experience text description here</description>
     </item>
     
     <item>
       <title>8Sistemas</title>
-      <link>https://www.vinsouza.work/workexperience/8sistemas/</link>
+      <link>https://vinsouza.work/workexperience/8sistemas/</link>
       <pubDate>Sat, 06 Oct 2018 16:37:03 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/workexperience/8sistemas/</guid>
+      <guid>https://vinsouza.work/workexperience/8sistemas/</guid>
       <description>Work Experience text description here</description>
     </item>
     
     <item>
       <title>Pessoas.VC</title>
-      <link>https://www.vinsouza.work/workexperience/pessoas-vc/</link>
+      <link>https://vinsouza.work/workexperience/pessoas-vc/</link>
       <pubDate>Sat, 06 Oct 2018 16:36:01 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/workexperience/pessoas-vc/</guid>
+      <guid>https://vinsouza.work/workexperience/pessoas-vc/</guid>
       <description>Work Experience text description here</description>
     </item>
     
     <item>
       <title>KinuX E.v.</title>
-      <link>https://www.vinsouza.work/workexperience/kinux-ev/</link>
+      <link>https://vinsouza.work/workexperience/kinux-ev/</link>
       <pubDate>Sat, 06 Oct 2018 16:34:51 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/workexperience/kinux-ev/</guid>
+      <guid>https://vinsouza.work/workexperience/kinux-ev/</guid>
       <description>Work Experience text description here</description>
     </item>
     
     <item>
       <title>Hiper Social</title>
-      <link>https://www.vinsouza.work/workexperience/hiper-social/</link>
+      <link>https://vinsouza.work/workexperience/hiper-social/</link>
       <pubDate>Sat, 06 Oct 2018 16:33:46 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/workexperience/hiper-social/</guid>
+      <guid>https://vinsouza.work/workexperience/hiper-social/</guid>
       <description>Work Experience text description here</description>
     </item>
     
     <item>
       <title>KDE</title>
-      <link>https://www.vinsouza.work/workexperience/kde/</link>
+      <link>https://vinsouza.work/workexperience/kde/</link>
       <pubDate>Sat, 06 Oct 2018 16:31:28 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/workexperience/kde/</guid>
+      <guid>https://vinsouza.work/workexperience/kde/</guid>
       <description>Work Experience text description here</description>
     </item>
     
     <item>
       <title>StayTrack</title>
-      <link>https://www.vinsouza.work/workexperience/staytrack/</link>
+      <link>https://vinsouza.work/workexperience/staytrack/</link>
       <pubDate>Sat, 06 Oct 2018 16:30:10 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/workexperience/staytrack/</guid>
+      <guid>https://vinsouza.work/workexperience/staytrack/</guid>
       <description>Work Experience text description here</description>
     </item>
     
     <item>
       <title>IFS</title>
-      <link>https://www.vinsouza.work/workexperience/ifs/</link>
+      <link>https://vinsouza.work/workexperience/ifs/</link>
       <pubDate>Sat, 06 Oct 2018 16:25:06 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/workexperience/ifs/</guid>
+      <guid>https://vinsouza.work/workexperience/ifs/</guid>
       <description>Work Experience text description here</description>
     </item>
     
     <item>
       <title>DevOPS Foundation</title>
-      <link>https://www.vinsouza.work/certification/devops-foundation/</link>
+      <link>https://vinsouza.work/certification/devops-foundation/</link>
       <pubDate>Sat, 06 Oct 2018 16:22:50 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/certification/devops-foundation/</guid>
+      <guid>https://vinsouza.work/certification/devops-foundation/</guid>
       <description>What is DevOPS? DevOps is a software development methodology combining software development (Dev) with information technology operations (Ops).
 The goal of DevOps is to shorten the systems development life cycle while also delivering features, fixes, and updates frequently in close alignment with business objectives.
 The DevOps approach is to include automation and event monitoring at all steps of the software build.
@@ -274,57 +274,57 @@ What is this certification for? This certification attests that I have knowledge
     
     <item>
       <title>Agile Management With Scrum</title>
-      <link>https://www.vinsouza.work/certification/agile-management-with-scrum/</link>
+      <link>https://vinsouza.work/certification/agile-management-with-scrum/</link>
       <pubDate>Sat, 06 Oct 2018 16:18:41 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/certification/agile-management-with-scrum/</guid>
+      <guid>https://vinsouza.work/certification/agile-management-with-scrum/</guid>
       <description>What is Scrum? Scrum is an agile framework for managing knowledge work, with an emphasis on software development. It is designed for teams of three to nine members, who break their work into actions that can be completed within timeboxed iterations, called &amp;ldquo;sprints&amp;rdquo;, no longer than one month and most commonly two weeks, then track progress and re-plan in 15-minute stand-up meetings, called daily scrums.
 What is this certification for?</description>
     </item>
     
     <item>
       <title>Agile Scrum Foundation</title>
-      <link>https://www.vinsouza.work/certification/agile-scrum-foundation/</link>
+      <link>https://vinsouza.work/certification/agile-scrum-foundation/</link>
       <pubDate>Sat, 06 Oct 2018 16:16:19 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/certification/agile-scrum-foundation/</guid>
+      <guid>https://vinsouza.work/certification/agile-scrum-foundation/</guid>
       <description>What is Scrum? Scrum is an agile framework for managing knowledge work, with an emphasis on software development. It is designed for teams of three to nine members, who break their work into actions that can be completed within timeboxed iterations, called &amp;ldquo;sprints&amp;rdquo;, no longer than one month and most commonly two weeks, then track progress and re-plan in 15-minute stand-up meetings, called daily scrums.
 What is this certification for?</description>
     </item>
     
     <item>
       <title>Master of Business Administration - MBA</title>
-      <link>https://www.vinsouza.work/education/master-of-business-administration-mba/</link>
+      <link>https://vinsouza.work/education/master-of-business-administration-mba/</link>
       <pubDate>Sat, 06 Oct 2018 16:05:37 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/education/master-of-business-administration-mba/</guid>
+      <guid>https://vinsouza.work/education/master-of-business-administration-mba/</guid>
       <description>What is a MBA? The Master of Business Administration (MBA or M.B.A.) degree originated in the United States in the early 20th century when the country industrialized and companies sought scientific approaches to management. The core courses in an MBA program cover various areas of business such as accounting, applied statistics, business communication, business ethics, business law, finance, managerial economics, management, entrepreneurship, marketing and operations in a manner most relevant to management analysis and strategy.</description>
     </item>
     
     <item>
       <title>Bachelor, Statistics</title>
-      <link>https://www.vinsouza.work/education/bachelor-statistics/</link>
+      <link>https://vinsouza.work/education/bachelor-statistics/</link>
       <pubDate>Sat, 06 Oct 2018 16:01:27 -0300</pubDate>
       
-      <guid>https://www.vinsouza.work/education/bachelor-statistics/</guid>
+      <guid>https://vinsouza.work/education/bachelor-statistics/</guid>
       <description>Education text description here</description>
     </item>
     
     <item>
       <title>Get in touch!</title>
-      <link>https://www.vinsouza.work/contact/</link>
+      <link>https://vinsouza.work/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.vinsouza.work/contact/</guid>
+      <guid>https://vinsouza.work/contact/</guid>
       <description>You may find me at</description>
     </item>
     
     <item>
       <title>Hire me!</title>
-      <link>https://www.vinsouza.work/hire-me/</link>
+      <link>https://vinsouza.work/hire-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.vinsouza.work/hire-me/</guid>
+      <guid>https://vinsouza.work/hire-me/</guid>
       <description>You may find me at</description>
     </item>
     

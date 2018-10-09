@@ -6,10 +6,19 @@
     <description>Recent content on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Oct 2018 00:31:42 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 09 Oct 2018 00:32:46 -0300</lastBuildDate>
     
 	<atom:link href="https://vinsouza.work/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hybrid using React Native and Electron for a POS System</title>
+      <link>https://vinsouza.work/project/hybrid-using-react-native-and-electron-for-a-pos-system/</link>
+      <pubDate>Tue, 09 Oct 2018 00:32:46 -0300</pubDate>
+      
+      <guid>https://vinsouza.work/project/hybrid-using-react-native-and-electron-for-a-pos-system/</guid>
+      <description>To discur here</description>
+    </item>
     
     <item>
       <title>Migration and Maintenance of Linux Servers</title>

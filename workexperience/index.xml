@@ -69,10 +69,11 @@ What I do for 8Sistemas Software development with PHP, C++ (mainly with Qt), and
     <item>
       <title>StayTrack</title>
       <link>https://vinsouza.work/workexperience/staytrack/</link>
-      <pubDate>Sat, 06 Oct 2018 16:30:10 -0300</pubDate>
+      <pubDate>Sat, 06 Oct 2018 19:30:10 +0000</pubDate>
       
       <guid>https://vinsouza.work/workexperience/staytrack/</guid>
-      <description>Work Experience text description here</description>
+      <description>What is StayTrack Brazilian car tracking and recovery company.
+What have I worked on at StayTrack I was the I.T. Manager, working with the maintenance of the Windows Servers systems, and a mixed software park of MySQL and SQLServer database servers, keeping things running nice and smoothly, so the staff could do their best to track and recover cars, and trucks. Also, worked on a new interface for the customers to track real time their vehicles, using PHP, Google Maps, and a little of magic to integrate with the existing commercial system.</description>
     </item>
     
     <item>

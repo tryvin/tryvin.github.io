@@ -6,18 +6,19 @@
     <description>Recent content in Projects on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Oct 2018 18:38:31 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 21:38:31 +0000</lastBuildDate>
     
 	<atom:link href="https://vinsouza.work/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Squid Proxy at Ifs</title>
+      <title>Squid Proxy at IFS</title>
       <link>https://vinsouza.work/project/squid-proxy-at-ifs/</link>
-      <pubDate>Sat, 06 Oct 2018 18:38:31 -0300</pubDate>
+      <pubDate>Sat, 06 Oct 2018 21:38:31 +0000</pubDate>
       
       <guid>https://vinsouza.work/project/squid-proxy-at-ifs/</guid>
-      <description>Project text description here</description>
+      <description>This was one of my first projects at IFS, setting up and keeping it running smoothly to handle the user network traffic from the whole institute.
+Made us save 40% on bandwidth, with good network rules, caching Windows updates, and Anti-virus updates.</description>
     </item>
     
   </channel>

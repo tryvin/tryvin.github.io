@@ -6,10 +6,19 @@
     <description>Recent content in Projects on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Oct 2018 00:29:30 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 09 Oct 2018 00:30:21 -0300</lastBuildDate>
     
 	<atom:link href="https://vinsouza.work/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>POS Version with QT for offline usage</title>
+      <link>https://vinsouza.work/project/pos-version-with-qt-for-offline-usage/</link>
+      <pubDate>Tue, 09 Oct 2018 00:30:21 -0300</pubDate>
+      
+      <guid>https://vinsouza.work/project/pos-version-with-qt-for-offline-usage/</guid>
+      <description>To discur here</description>
+    </item>
     
     <item>
       <title>POS System running at a Cloud Stack</title>

@@ -6,10 +6,21 @@
     <description>Recent content in Projects on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Oct 2018 23:14:37 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 08 Oct 2018 23:22:29 -0300</lastBuildDate>
     
 	<atom:link href="https://vinsouza.work/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Create a In-House parser for OpenSocial canvas XML</title>
+      <link>https://vinsouza.work/project/create-a-in-house-parser-for-opensocial-canvas-xml/</link>
+      <pubDate>Mon, 08 Oct 2018 23:22:29 -0300</pubDate>
+      
+      <guid>https://vinsouza.work/project/create-a-in-house-parser-for-opensocial-canvas-xml/</guid>
+      <description>After we launched at Orkut, we had to expand, and the next social network at our list was MySpace.
+We then had to do some small changes here and there to accommodate the users and their own stack.
+First thing was to integrate the OpenSocial login we had from Orkut to MySpace, even thought they had joined forces to create the OpenSocial consortium, the thing wasn&amp;rsquo;t really working the same way to all of them.</description>
+    </item>
     
     <item>
       <title>Creating a In-House CDN for Images</title>

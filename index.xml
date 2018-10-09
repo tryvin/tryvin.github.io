@@ -6,19 +6,10 @@
     <description>Recent content on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Oct 2018 00:34:35 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 09 Oct 2018 00:34:07 -0300</lastBuildDate>
     
 	<atom:link href="https://vinsouza.work/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Austin Golf Project</title>
-      <link>https://vinsouza.work/project/austin-golf-project/</link>
-      <pubDate>Tue, 09 Oct 2018 00:34:35 -0300</pubDate>
-      
-      <guid>https://vinsouza.work/project/austin-golf-project/</guid>
-      <description>To discur here</description>
-    </item>
     
     <item>
       <title>Migration and Maintance of Linux Servers at the AWS Stack</title>

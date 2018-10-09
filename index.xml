@@ -6,10 +6,19 @@
     <description>Recent content on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Oct 2018 00:33:30 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 09 Oct 2018 00:34:07 -0300</lastBuildDate>
     
 	<atom:link href="https://vinsouza.work/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Migration and Maintance of Linux Servers at the AWS Stack</title>
+      <link>https://vinsouza.work/project/migration-and-maintance-of-linux-servers-at-the-aws-stack/</link>
+      <pubDate>Tue, 09 Oct 2018 00:34:07 -0300</pubDate>
+      
+      <guid>https://vinsouza.work/project/migration-and-maintance-of-linux-servers-at-the-aws-stack/</guid>
+      <description>To discur here</description>
+    </item>
     
     <item>
       <title>Salesforce Sentiment Analysis System for Classifying best business opportunities</title>

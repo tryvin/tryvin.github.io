@@ -6,10 +6,22 @@
     <description>Recent content in Projects on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Oct 2018 23:03:23 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 08 Oct 2018 23:08:30 -0300</lastBuildDate>
     
 	<atom:link href="https://vinsouza.work/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dating Application for Orkut</title>
+      <link>https://vinsouza.work/project/dating-application-for-orkut/</link>
+      <pubDate>Mon, 08 Oct 2018 23:08:30 -0300</pubDate>
+      
+      <guid>https://vinsouza.work/project/dating-application-for-orkut/</guid>
+      <description>My work with StayTrack got out, and a local entrepreneur got in contact.
+He said he were seeking for someone with knowledge with PHP to be one of the first developers into his company&amp;rsquo;s team.
+The project was: A Dating App for Orkut, at the time, the main social network at Brazil and India, one of a kind. Facebook wasn&amp;rsquo;t even born yet.
+At this project I learned more and more about the high performance systems, we launched with a boom from a local TV show, and the audience was huge, we had to keep thing running, and didn&amp;rsquo;t have too much resources.</description>
+    </item>
     
     <item>
       <title>Translation of Announcements and Software Modules</title>

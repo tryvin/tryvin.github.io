@@ -6,10 +6,21 @@
     <description>Recent content in Projects on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Oct 2018 21:38:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Oct 2018 22:49:23 -0300</lastBuildDate>
     
 	<atom:link href="https://vinsouza.work/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Live Car Tracking for the Customers</title>
+      <link>https://vinsouza.work/project/live-car-tracking-for-the-customers/</link>
+      <pubDate>Mon, 08 Oct 2018 22:49:23 -0300</pubDate>
+      
+      <guid>https://vinsouza.work/project/live-car-tracking-for-the-customers/</guid>
+      <description>Using PHP and Google Maps API I handled the integration with the proprietary car tracking system used by the staff.
+Using ACLs to control what the clients were able to see, and which cars they were allowed to see, I arranged a nice and direct interface, so the clients could just login, choose their cars, and track them real time.
+With this project I was able to reduce the number of phone calls to the customer central by 70%.</description>
+    </item>
     
     <item>
       <title>Squid Proxy at IFS</title>

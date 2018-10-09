@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vinsouza.work/project/austin-golf-project/</loc>
+    <lastmod>2018-10-09T00:34:35-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vinsouza.work/project/migration-and-maintance-of-linux-servers-at-the-aws-stack/</loc>
     <lastmod>2018-10-09T00:34:07-03:00</lastmod>
   </url>
@@ -270,7 +275,7 @@
   
   <url>
     <loc>https://vinsouza.work/project/</loc>
-    <lastmod>2018-10-09T00:34:07-03:00</lastmod>
+    <lastmod>2018-10-09T00:34:35-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -287,7 +292,7 @@
   
   <url>
     <loc>https://vinsouza.work/</loc>
-    <lastmod>2018-10-09T00:34:07-03:00</lastmod>
+    <lastmod>2018-10-09T00:34:35-03:00</lastmod>
     <priority>0</priority>
   </url>
   

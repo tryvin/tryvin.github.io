@@ -6,10 +6,19 @@
     <description>Recent content on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Oct 2018 00:30:55 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 09 Oct 2018 00:31:42 -0300</lastBuildDate>
     
 	<atom:link href="https://vinsouza.work/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Migration and Maintenance of Linux Servers</title>
+      <link>https://vinsouza.work/project/migration-and-maintenance-of-linux-servers/</link>
+      <pubDate>Tue, 09 Oct 2018 00:31:42 -0300</pubDate>
+      
+      <guid>https://vinsouza.work/project/migration-and-maintenance-of-linux-servers/</guid>
+      <description>To discur here</description>
+    </item>
     
     <item>
       <title>Integration with Brazilian&#39;s Eletronic Tax Systems</title>

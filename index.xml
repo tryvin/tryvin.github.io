@@ -6,10 +6,19 @@
     <description>Recent content on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Oct 2018 00:38:27 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 09 Oct 2018 00:39:37 -0300</lastBuildDate>
     
 	<atom:link href="https://vinsouza.work/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Solar Company Website Project</title>
+      <link>https://vinsouza.work/project/solar-company-website-project/</link>
+      <pubDate>Tue, 09 Oct 2018 00:39:37 -0300</pubDate>
+      
+      <guid>https://vinsouza.work/project/solar-company-website-project/</guid>
+      <description>To discur here</description>
+    </item>
     
     <item>
       <title>Animal Kennel Management System</title>

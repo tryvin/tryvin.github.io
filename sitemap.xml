@@ -3,7 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tryvin.github.io/certification/hipaa-privacy/</loc>
+    <loc>http://tryvin.github.io/blog/ai-artificial-as-fuxx/</loc>
+    <lastmod>2018-10-08T21:10:51-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tryvin.github.io/blog/what-is-a-senior-web-developer/</loc>
+    <lastmod>2018-10-08T21:09:22-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tryvin.github.io/blog/quick-post-sandbox-plugin-loader/</loc>
+    <lastmod>2018-10-08T21:07:46-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tryvin.github.io/blog/qt-separators/</loc>
+    <lastmod>2018-10-08T21:06:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tryvin.github.io/blog/api-application-programming-interface/</loc>
+    <lastmod>2018-10-08T21:04:25-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tryvin.github.io/blog/quote-the-thing-about-programming-writing-lines-of-code/</loc>
+    <lastmod>2018-10-08T21:03:26-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tryvin.github.io/blog/quote-the-thing-about-programming/</loc>
+    <lastmod>2018-10-08T21:02:51-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tryvin.github.io/blog/quote-the-size-of-your-strength/</loc>
+    <lastmod>2018-10-08T21:01:29-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tryvin.github.io/blog/globalization-food/</loc>
+    <lastmod>2018-10-08T20:59:31-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tryvin.github.io/blog/lambda-from-half-a-life-to-php/</loc>
+    <lastmod>2018-10-08T20:54:26-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tryvin.github.io/blog/doctor-what-no-doctor-who/</loc>
+    <lastmod>2018-10-08T20:50:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tryvin.github.io/blog/echo-hello-world/</loc>
+    <lastmod>2018-10-08T20:49:28-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tryvin.github.io/certification/hipaa-privacy-and-security-training/</loc>
     <lastmod>2018-10-08T16:07:57-03:00</lastmod>
   </url>
   
@@ -98,13 +158,8 @@
   </url>
   
   <url>
-    <loc>http://tryvin.github.io/blog/test/</loc>
-    <lastmod>2018-09-27T21:47:25+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tryvin.github.io/blog/</loc>
-    <lastmod>2018-09-27T21:47:25+00:00</lastmod>
+    <lastmod>2018-10-08T21:10:51-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -115,7 +170,7 @@
   
   <url>
     <loc>http://tryvin.github.io/certification/</loc>
-    <lastmod>2018-10-06T16:22:50-03:00</lastmod>
+    <lastmod>2018-10-08T16:07:57-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -152,7 +207,7 @@
   
   <url>
     <loc>http://tryvin.github.io/</loc>
-    <lastmod>2018-10-06T19:04:33-03:00</lastmod>
+    <lastmod>2018-10-08T21:10:51-03:00</lastmod>
     <priority>0</priority>
   </url>
   

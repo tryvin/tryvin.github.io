@@ -43,7 +43,8 @@
                 <div class="w-row">
                     <div class="w-col w-col-4 w-col-stack">
                         <div class="author-wrapper">
-                            <div><img src="http://tryvin.github.io/img/tryvin.jpeg"/>
+                            <div>
+                                <img src="http://tryvin.github.io/img/tryvin.jpg" class="author-image"/>
                             </div>
                             <div class="navigation-wrapper">
                                 <a href="/" class="nav-link w-inline-block w-clearfix w--current">
@@ -90,79 +91,21 @@
 
 
     <div class="page-content">
-        <div class="title-wrapper">
-            <h3 class="resume-title">
-                <a href="/certification">Certifications</a>
-            </h3>
+        <div class="align-center">
+            
+
+            <div class="created-on">Created on:</div>
+            <div class="created-on font">
+                October 8, 2018
+            </div>
+            <h1 class="blog-title">
+                The thing about programming is that writing lines of code is easy; it’s putting all those lines together in a coherent fashion that’s the hard part.
+            </h1>
         </div>
+
         <div>
-            <div class="w-dyn-list">
-                <div class="w-dyn-items">
-                    
-                        <a class="w-dyn-item" href="http://tryvin.github.io/certification/agile-management-with-scrum/">
-    <div class="education-wrapper">
-        <div class="w-row">
-            <div class="w-col w-col-2">
-                <div style="background-image:url( https://media.licdn.com/dms/image/C510BAQFKXnLDglG5qA/company-logo_200_200/0?e=1545868800&amp;v=beta&amp;t=C4GhaXvK0JcXVC8LHpQCigznstnfWCzC6ulLjiq9CA8 )" class="university-photo"></div>
-            </div>
-            <div class="w-col w-col-3">
-                <div>
-                    <div class="education-name">Udemy</div>
-                </div>
-            </div>
-            <div class="w-col w-col-7">
-                <div>
-                    <div class="education-name"> Agile Management With Scrum</div>
-                </div>
-            </div>
-        </div>
-    </div>
-</a>
-
-                    
-                        <a class="w-dyn-item" href="http://tryvin.github.io/certification/agile-scrum-foundation/">
-    <div class="education-wrapper">
-        <div class="w-row">
-            <div class="w-col w-col-2">
-                <div style="background-image:url( https://media.licdn.com/dms/image/C4E0BAQEZ2HHRkQHvAA/company-logo_200_200/0?e=1545868800&amp;v=beta&amp;t=8-Yfqi98RphQIQeD1mfCrl80ZIC2A8287Fsum-DFOdg )" class="university-photo"></div>
-            </div>
-            <div class="w-col w-col-3">
-                <div>
-                    <div class="education-name">Estabilis</div>
-                </div>
-            </div>
-            <div class="w-col w-col-7">
-                <div>
-                    <div class="education-name"> Agile Scrum Foundation</div>
-                </div>
-            </div>
-        </div>
-    </div>
-</a>
-
-                    
-                        <a class="w-dyn-item" href="http://tryvin.github.io/certification/devops-foundation/">
-    <div class="education-wrapper">
-        <div class="w-row">
-            <div class="w-col w-col-2">
-                <div style="background-image:url( https://media.licdn.com/dms/image/C4E0BAQEZ2HHRkQHvAA/company-logo_200_200/0?e=1545868800&amp;v=beta&amp;t=8-Yfqi98RphQIQeD1mfCrl80ZIC2A8287Fsum-DFOdg )" class="university-photo"></div>
-            </div>
-            <div class="w-col w-col-3">
-                <div>
-                    <div class="education-name">Estabilis</div>
-                </div>
-            </div>
-            <div class="w-col w-col-7">
-                <div>
-                    <div class="education-name"> DevOPS Foundation</div>
-                </div>
-            </div>
-        </div>
-    </div>
-</a>
-
-                    
-                </div>
+            <div class="w-richtext">
+                
             </div>
         </div>
 
@@ -172,6 +115,15 @@
                 <div class="icon-button"></div>
                 <div class="button-text">Download my CV</div>
             </a>
+            <a href="/hire-me" class="button w-inline-block w-clearfix">
+                <div class="button-text">Hire me!</div>
+            </a>
+        </div>
+        <div class="space-divider"></div>
+        <div class="align-center">
+            <a href="/blog" class="button w-inline-block w-clearfix">
+                <div class="button-text"><i class="fa fa-arrow-left"></i> Back to My Blog</div>
+            </a>
         </div>
     </div>
                 </div>
@@ -179,6 +131,21 @@
         </div>
         <script src="https://code.jquery.com/jquery-3.3.1.min.js" type="text/javascript" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
         <script src="https://uploads-ssl.webflow.com/5bad3f68b04cd5cfc08f76ae/js/webflow.1bda2778e.js" type="text/javascript"></script>
+        <script src="//static.tumblr.com/fpifyru/VCxlv9xwi/writecapture.js"></script>
+        <script type="text/javascript">
+            $(function() {
+                $("a[href]").each(
+                    function(index, element) {
+                        if ( $(element).text().indexOf('gist.github.com') > 0 ) {
+                            var divElement = $('<div></div>');
+                            $(element).after(divElement);
+                            writeCapture.html(divElement, '<script src="'+$(element).text()+'.js"></'+'script>');
+                            $(element).remove();
+                        }
+                    }
+                );
+            });
+        </script>
         
     </body>
 </html>

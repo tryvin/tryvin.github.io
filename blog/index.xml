@@ -6,18 +6,131 @@
     <description>Recent content in Blogs on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Sep 2018 21:47:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Oct 2018 21:10:51 -0300</lastBuildDate>
     
 	<atom:link href="http://tryvin.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test</title>
-      <link>http://tryvin.github.io/blog/test/</link>
-      <pubDate>Thu, 27 Sep 2018 21:47:25 +0000</pubDate>
+      <title>DRAFT: A.I. - Artificial as fu**</title>
+      <link>http://tryvin.github.io/blog/ai-artificial-as-fuxx/</link>
+      <pubDate>Mon, 08 Oct 2018 21:10:51 -0300</pubDate>
       
-      <guid>http://tryvin.github.io/blog/test/</guid>
-      <description>Testing this and that, and that and that</description>
+      <guid>http://tryvin.github.io/blog/ai-artificial-as-fuxx/</guid>
+      <description>I’m not a Data Scientist First things first, you know, I’m not a Data Scientist, even thought, I have a strong opinion that&amp;nbsp;“Data Scientist” is just a fancy term for a software developer who knows how to dig into some large data sets.
+Either I’m a Artificial Intelligence scientist, the ones you can image, wearing white suits, and working at a lab, exploring the human brain, just like you can see at the&amp;nbsp;“Transcendence” movie.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s a Senior Web Developer</title>
+      <link>http://tryvin.github.io/blog/what-is-a-senior-web-developer/</link>
+      <pubDate>Mon, 08 Oct 2018 21:09:22 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/blog/what-is-a-senior-web-developer/</guid>
+      <description>Well, besides being a fancy name &amp;ldquo;Senior&amp;rdquo;, there&amp;rsquo;s more than years of development experience.
+Yes, I know, seniority comes with aging, and responsibilities. But there&amp;rsquo;s somethings we can&amp;rsquo;t forget when thinking about &amp;ldquo;Senior&amp;rdquo;.
+&amp;ldquo;Years of experience&amp;rdquo;:
+Yes, I also consider someone a Senior when they have many years of experience into something, like a &amp;ldquo;Senior Web Developer&amp;rdquo; would have years of experience in &amp;ldquo;Web Development&amp;rdquo;, whichever would be the language (s)he choose to work with, either it&amp;rsquo;s Python, either it&amp;rsquo;s PHP, or Java, it&amp;rsquo;s all Web Development.</description>
+    </item>
+    
+    <item>
+      <title>Quick Post: Sandbox Plugin Loader</title>
+      <link>http://tryvin.github.io/blog/quick-post-sandbox-plugin-loader/</link>
+      <pubDate>Mon, 08 Oct 2018 21:07:46 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/blog/quick-post-sandbox-plugin-loader/</guid>
+      <description>This gist is about a sandbox plugin loader I made myself, it&amp;rsquo;s a simple one, just redefines the functions you forbid, so you can include the plugin code (better if you checkout the code first) and rest assured that the plugin can&amp;rsquo;t access other files, use it with open_basedir setted up
+https://gist.github.com/tryvin/a9f4622601d19a425267</description>
+    </item>
+    
+    <item>
+      <title>Separators</title>
+      <link>http://tryvin.github.io/blog/qt-separators/</link>
+      <pubDate>Mon, 08 Oct 2018 21:06:06 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/blog/qt-separators/</guid>
+      <description>One beautiful thing about computer programming are the differences from OS to OS, from Windows, to nix, and so on.
+When we are writing cross-platform code, as in my case where my dev machine is a Windows 10 machine, and our production servers are all Linux, we have some little things that you need to go on with an IF or some constant from the Programming Language or the toolkit.</description>
+    </item>
+    
+    <item>
+      <title>A.P.I. - Application programming interface</title>
+      <link>http://tryvin.github.io/blog/api-application-programming-interface/</link>
+      <pubDate>Mon, 08 Oct 2018 21:04:25 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/blog/api-application-programming-interface/</guid>
+      <description>From WikiPedia (https://en.wikipedia.org/wiki/Application_programming_interface): &amp;gt; In computer programming, an application programming interface (API) is a set of routines, protocols, and tools for building software applications. An API expresses a software component in terms of its operations, inputs, outputs, and underlying types, defining functionalities that are independent of their respective implementations, which allows definitions and implementations to vary without compromising the interface. A good API makes it easier to develop a program by providing all the building blocks, which are then put together by the programmer.</description>
+    </item>
+    
+    <item>
+      <title>The thing about programming is that writing lines of code is easy; it’s putting all those lines together in a coherent fashion that’s the hard part.</title>
+      <link>http://tryvin.github.io/blog/quote-the-thing-about-programming-writing-lines-of-code/</link>
+      <pubDate>Mon, 08 Oct 2018 21:03:26 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/blog/quote-the-thing-about-programming-writing-lines-of-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The thing about programming is that often you’ll work out how to solve a proble while lying in bed and trying to sleep, but you’ll never remember what the solution was in the morning.</title>
+      <link>http://tryvin.github.io/blog/quote-the-thing-about-programming/</link>
+      <pubDate>Mon, 08 Oct 2018 21:02:51 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/blog/quote-the-thing-about-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The size of your strength is totally inverse to the size of your fear</title>
+      <link>http://tryvin.github.io/blog/quote-the-size-of-your-strength/</link>
+      <pubDate>Mon, 08 Oct 2018 21:01:29 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/blog/quote-the-size-of-your-strength/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globalization: Food</title>
+      <link>http://tryvin.github.io/blog/globalization-food/</link>
+      <pubDate>Mon, 08 Oct 2018 20:59:31 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/blog/globalization-food/</guid>
+      <description>Hello guys, sorry for the late post. I’m still getting used to blogging.
+So, as you can see on the blog title, it’s about a multi-task guy, who can cook, write, code, and photograph. This&amp;nbsp;post is about food, but I’m not teaching a recipe, I will be talking about the globalization in the food sector.
+Since civilization started, people transformed something, into another thing. You know, wheat into flour, flour into bread, bread into Bruschettas!</description>
+    </item>
+    
+    <item>
+      <title>Λ (λ) - From Half-a-Life, to PHP</title>
+      <link>http://tryvin.github.io/blog/lambda-from-half-a-life-to-php/</link>
+      <pubDate>Mon, 08 Oct 2018 20:54:26 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/blog/lambda-from-half-a-life-to-php/</guid>
+      <description>From Wikipedia:
+is the 11th letter of the Greek alphabet. In the system of Greek numerals lambda has a value of 30.&amp;nbsp;
+From Half-life wikia:
+In the original Half-Life, Gordon Freeman&amp;rsquo;s trademark HEV Suit was marked with a Lambda Logo on the chest, as were other HEV Suits. A section of Black Mesa dedicated to teleport research was also called the &amp;ldquo;Lambda Complex&amp;rdquo;, and is identifiable by the Lambda logo at its entrance.</description>
+    </item>
+    
+    <item>
+      <title>Doctor WHAT? No, Doctor Who</title>
+      <link>http://tryvin.github.io/blog/doctor-what-no-doctor-who/</link>
+      <pubDate>Mon, 08 Oct 2018 20:50:35 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/blog/doctor-what-no-doctor-who/</guid>
+      <description>I’m a sci-fiction fan, and that’s no secret to every other sci-fiction fan that Doctor Who is a huge TV show, with a huge team around it, and a huge fan base.
+But to everyone else, who in the heck is Doctor Who? Doctor Who is an human-alien, a timelord (Timelords were a human-like-race, even so they say timelords came first, so, we are timelord-like-race. And they could travel in time and space).</description>
+    </item>
+    
+    <item>
+      <title>echo &#34;Hello world&#34;;</title>
+      <link>http://tryvin.github.io/blog/echo-hello-world/</link>
+      <pubDate>Mon, 08 Oct 2018 20:49:28 -0300</pubDate>
+      
+      <guid>http://tryvin.github.io/blog/echo-hello-world/</guid>
+      <description>Hello guys,
+So, what all these words in my title has in common? Well, we could say pretty much nothing, but I don’t think so. All these worlds talk about getting something, and transforming this in another thing. We are talking about getting “raw data” as input, and sending something processed as output.
+That’s all about my life, I’m a computer programmer, even so I prefer the term&amp;nbsp;“tech solution developer”, and my thing is all about that bass (just kidding), I’m all about web and mobile, I like to know that I can push an update to everyone with a single Git commit to the server, and in the next refresh from the user, tadam, everything changed!</description>
     </item>
     
   </channel>

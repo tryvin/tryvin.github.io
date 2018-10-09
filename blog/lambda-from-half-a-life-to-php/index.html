@@ -91,55 +91,66 @@
 
 
     <div class="page-content">
-        <div class="title-wrapper">
-            <h3 class="resume-title">
-                <a href="http://tryvin.github.io/certification/agile-management-with-scrum/">Agile Management With Scrum</a>
-            </h3>
-        </div>
-        <div>
-            <div class="w-dyn-list">
-                <div class="w-dyn-items">
-                    <a class="w-dyn-item" href="http://tryvin.github.io/certification/agile-management-with-scrum/">
-    <div class="education-wrapper">
-        <div class="w-row">
-            <div class="w-col w-col-2">
-                <div style="background-image:url( https://media.licdn.com/dms/image/C510BAQFKXnLDglG5qA/company-logo_200_200/0?e=1545868800&amp;v=beta&amp;t=C4GhaXvK0JcXVC8LHpQCigznstnfWCzC6ulLjiq9CA8 )" class="university-photo"></div>
-            </div>
-            <div class="w-col w-col-3">
-                <div>
-                    <div class="education-name">Udemy</div>
-                </div>
-            </div>
-            <div class="w-col w-col-7">
-                <div>
-                    <div class="education-name"> Agile Management With Scrum</div>
-                </div>
-            </div>
-        </div>
-    </div>
-</a>
+        <div class="align-center">
+            
+                <a href="https://fawove.com/wp-content/uploads/2018/04/Download-1.jpg" target="_blank">
+                    <div style="background-image:url( https://fawove.com/wp-content/uploads/2018/04/Download-1.jpg )" class="blog-image bigger"></div>
+                </a>
+            
 
-                </div>
+            <div class="created-on">Created on:</div>
+            <div class="created-on font">
+                October 8, 2018
             </div>
+            <h1 class="blog-title">
+                Λ (λ) - From Half-a-Life, to PHP
+            </h1>
         </div>
 
         <div>
             <div class="w-richtext">
-                
+                <p>From Wikipedia:</p>
 
-<h1 id="what-is-scrum">What is Scrum?</h1>
+<p>is the 11th letter of the <a href="https://en.wikipedia.org/wiki/Greek_alphabet" title="Greek alphabet">Greek alphabet</a>. In the system of <a href="https://en.wikipedia.org/wiki/Greek_numerals" title="Greek numerals">Greek numerals</a> lambda has a value of 30.&nbsp;</p>
 
-<p>Scrum is an agile framework for managing knowledge work, with an emphasis on software development. It is designed for teams of three to nine members, who break their work into actions that can be completed within timeboxed iterations, called &ldquo;sprints&rdquo;, no longer than one month and most commonly two weeks, then track progress and re-plan in 15-minute stand-up meetings, called daily scrums.</p>
+<p>From Half-life wikia:</p>
 
-<h1 id="what-is-this-certification-for">What is this certification for?</h1>
+<p>In the original <em>Half-Life</em>, <a href="http://half-life.wikia.com/wiki/Gordon_Freeman" title="Gordon Freeman">Gordon Freeman</a>&rsquo;s trademark <a href="http://half-life.wikia.com/wiki/HEV_Suit" title="HEV Suit">HEV Suit</a> was marked with a Lambda Logo on the chest, as were other <a href="http://half-life.wikia.com/wiki/HEV_Suit" title="HEV Suit">HEV Suits</a>. A section of Black Mesa dedicated to teleport research was also called the &ldquo;Lambda Complex&rdquo;, and is identifiable by the Lambda logo at its entrance.</p>
 
-<p>This certification is a confirmation of all my years working with Scrum teams, being a Scrum Master, and/or team member, attesting that I&rsquo;m able to work in a Agile Team using Scrum Methodologies. Making the team evolve in a fast a paceful way, guaranteeing that the team is integrated and can participate and be heard with their issues and progress as the development evolves.</p>
+<p>But what does this symbol has to do with PHP?</p>
 
-<p>Being a Scrum Master I can work making the bridge between my team&rsquo;s concerns and blockers and the product owner, creating a politicized way of solving issues.</p>
+<p>Well, it’s the name we at computer programming gives to anonymous functions, which, again with the definitions, from Wikipedia:</p>
 
-<h1 id="what-is-the-next-step">What is the next step?</h1>
+<p>In <a href="https://en.wikipedia.org/wiki/Computer_programming" title="Computer programming">computer programming</a>, an <strong>anonymous function</strong> (also <strong>function literal</strong> or <strong>lambda abstraction</strong>) is a <a href="https://en.wikipedia.org/wiki/Function_(computer_science) &quot;Function (computer science">function</a>&rdquo;) definition that is not <a href="https://en.wikipedia.org/wiki/Name_binding" title="Name binding">bound</a> to an <a href="https://en.wikipedia.org/wiki/Name_(computer_science) &quot;Name (computer science">identifier</a>&rdquo;). Anonymous functions are often:</p>
 
-<p>Getting a Scrum.org certification, to complement my current certifications.</p>
+<p>1 - arguments being passed to <a href="https://en.wikipedia.org/wiki/Higher-order_function" title="Higher-order function">higher-order functions</a>, or
+2 - used for constructing the result of a higher-order function that needs to return a function.</p>
+
+<p>We all know that computer languages has functions, and if it’s a OOP language, has classes, interfaces, packages, and the list goes on. But with all these organizations, how can we make simple functions, that are used only in a piece of the code? Rapid functions, rapid development (ain’t that what the web is all about? Rapid, rapid, rapid)</p>
+
+<p>The anonymous functions came to help. Imagine the situation (i’m gonna give the example in PHP, but you would port it to any language you imagine):</p>
+
+<p>I have an template, and this template uses a function, which gets an array, and transforms it in a HTML select, this function, runs this array and use the key as the HTML option value, and the value, as the HTML option text. (I’m talking about html_options from Smarty here), but my original array, which cames from the database is a multidimensional array, like this one here:</p>
+
+<p>Array( Array(&nbsp;‘databaseId’ =&gt; 1,&nbsp;‘databaseValue’ =&gt;&nbsp;‘Hello’) )</p>
+
+<p>How could I transform this into:</p>
+
+<p>Array(1 =&gt;&nbsp;‘Hello’)</p>
+
+<p>You could make something like this:</p>
+
+<p><a href="https://gist.github.com/tryvin/430e0e74a50d8b8bd03b">https://gist.github.com/tryvin/430e0e74a50d8b8bd03b</a></p>
+
+<p>But we could revamp this a while, and use <a href="http://php.net/manual/en/function.array-map.php">array_map</a>, it takes a PHP callback as first argument, and an array as the second (and so on) argument. Then this function starts executing the callback for every element in the input arrays. But how could this use lambda functions? Well, as we all know, PHP callbacks are functions, whatever they are from a class, a main function, or even a <strong>LAMBDA!</strong>&nbsp;See the code above, using lambda, and see it became more readable:</p>
+
+<p><a href="https://gist.github.com/tryvin/8c00e95e2775ed4ad757">https://gist.github.com/tryvin/8c00e95e2775ed4ad757</a></p>
+
+<p>Yes, I know, it’s the same&nbsp;“size”, but now imagine, you have some processing to do. You need to insert some filters into your array, change some values, execute something while it’s mapping, the uses are endless. And this is only one use of lambda with array_map. Lamdbas can be used for anything, it’s a function for god sake.</p>
+
+<p>Say yes to lamdba, and no to creating __functionToMapping, or __mySecretFunctionWhichOnlyAddUserCalls and so on!</p>
+
+<p>Oh, and don’t forget, even if it’s a pretty oldie game, you could give Half-life a try, even if playing it in a big screen gives me headaches =/</p>
 
             </div>
         </div>
@@ -150,17 +161,14 @@
                 <div class="icon-button"></div>
                 <div class="button-text">Download my CV</div>
             </a>
-
-            
-                <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-VDOD3PTN.pdf" class="button w-inline-block w-clearfix" target="_blank">
-                    <div class="button-text"><i class="fa fa-arrow-right"></i> View Certificate </div>
-                </a>
-            
+            <a href="/hire-me" class="button w-inline-block w-clearfix">
+                <div class="button-text">Hire me!</div>
+            </a>
         </div>
         <div class="space-divider"></div>
         <div class="align-center">
-            <a href="/certification" class="button w-inline-block w-clearfix">
-                <div class="button-text"><i class="fa fa-arrow-left"></i> Back to Certifications</div>
+            <a href="/blog" class="button w-inline-block w-clearfix">
+                <div class="button-text"><i class="fa fa-arrow-left"></i> Back to My Blog</div>
             </a>
         </div>
     </div>

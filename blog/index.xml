@@ -6,10 +6,21 @@
     <description>Recent content in Blogs on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Oct 2018 21:10:51 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 09 Oct 2018 19:54:52 -0300</lastBuildDate>
     
 	<atom:link href="https://www.vinsouza.work/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SET: Answers to Technical Questions job interviewers likes to ask. - Part 1</title>
+      <link>https://www.vinsouza.work/blog/answers-to-technical-questions-everyone-asks/</link>
+      <pubDate>Tue, 09 Oct 2018 19:54:52 -0300</pubDate>
+      
+      <guid>https://www.vinsouza.work/blog/answers-to-technical-questions-everyone-asks/</guid>
+      <description>Question: Please detail a time an architectural decision and/or design pattern was implemented on a development project that added technical debt. Why was the decision made and what problems did it cause? Would you do anything differently if you were architecting the system from scratch now?
+Answer: Let&amp;rsquo;s go throught item by item so it will be easier to understand
+What architectural and/or design patterns have I worked on:  ETL (Extract, transform, load)  Where?</description>
+    </item>
     
     <item>
       <title>DRAFT: A.I. - Artificial as fu**</title>

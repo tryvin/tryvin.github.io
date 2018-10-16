@@ -6,10 +6,20 @@
     <description>Recent content in Certifications on Vin Souza (@tryvin)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Oct 2018 18:17:30 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 16 Oct 2018 19:32:27 -0300</lastBuildDate>
     
 	<atom:link href="https://www.vinsouza.work/certification/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HADOOP: MapReduce in Depth</title>
+      <link>https://www.vinsouza.work/certification/hadoop-mapreduce-in-depth/</link>
+      <pubDate>Tue, 16 Oct 2018 19:32:27 -0300</pubDate>
+      
+      <guid>https://www.vinsouza.work/certification/hadoop-mapreduce-in-depth/</guid>
+      <description>In this course I confirmed my previous knowledge within a MapReduce pattern, I had previously worked with Map Reduce in other languages, such as Python, to introduce some data analysis, reading, and transforming unstructured data formats into a structured output.
+Using Hadoop I may now implement this kind of development pattern in a fashion way, with various tools from Hadoop, like cluster support, Chaining of Mapper and Reducer jobs, multiple jobs chaining, distributed input files, scaling up to petabytes of Data.</description>
+    </item>
     
     <item>
       <title>Accounting: From Beginner to Advanced</title>

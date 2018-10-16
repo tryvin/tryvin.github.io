@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.vinsouza.work/certification/hadoop-mapreduce-in-depth/</loc>
+    <lastmod>2018-10-16T19:32:27-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.vinsouza.work/certification/accounting-from-beginner-to-advanced/</loc>
     <lastmod>2018-10-10T18:17:30-03:00</lastmod>
   </url>
@@ -275,7 +280,7 @@
   
   <url>
     <loc>https://www.vinsouza.work/certification/</loc>
-    <lastmod>2018-10-10T18:17:30-03:00</lastmod>
+    <lastmod>2018-10-16T19:32:27-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -312,7 +317,7 @@
   
   <url>
     <loc>https://www.vinsouza.work/</loc>
-    <lastmod>2018-10-10T18:17:30-03:00</lastmod>
+    <lastmod>2018-10-16T19:32:27-03:00</lastmod>
     <priority>0</priority>
   </url>
   
